@@ -47,3 +47,6 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- type: file
+  name: logo
+  label: Logo
