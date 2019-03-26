@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- clients.md
 - training.md
 - about.md
 - index.md
