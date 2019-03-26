@@ -17,7 +17,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/Background-image.jpg"
   logo: "/uploads/2logo-white.svg"
 - template: content-feature
   block: feature-1
