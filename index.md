@@ -8,7 +8,8 @@ page_sections:
   navigation:
   - link: "/about"
     link_text: About
-  - {}
+  - link: "/contact"
+    link_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   headline: ''
