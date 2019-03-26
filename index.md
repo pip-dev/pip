@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/about"
+    link_text: About
   - {}
 - template: hero-banner-w-image
   block: hero-2
