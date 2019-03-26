@@ -1,9 +1,12 @@
-<section class="block block-hero-2" 
+<section class=" vh-100" 
 {% if section.background_image %}
-style="background-image: url('{{ section.background_image | relative_url }}')"
+style="background: url('{{ section.background_image | relative_url }}') no-repeat center center fixed; background-size: cover;"
 {% endif %}>
   <div class="container">
-    <div class="columns">
+    {% if section.logo %}
+    <img src="{{ section.logo | relative_url }}" alt="{{ section.image.alt_text }}">
+    {% endif %}>
+    <div class="columns-2-ns">
       <div class="column text">
         <h1><span class="light">{{ section.headline }}</span></h1>
         <p>{{ section.content }}</p>
