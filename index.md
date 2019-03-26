@@ -5,6 +5,8 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
+  navigation:
+  - {}
 - template: hero-banner-w-image
   block: hero-2
   headline: ''
