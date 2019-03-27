@@ -1,21 +1,23 @@
-<section class=" vh-100" 
+<section class="vh-100 vh-95-ns" 
 {% if section.background_image %}
 style="background: url('{{ section.background_image | relative_url }}') no-repeat center center fixed; background-size: cover;"
 {% endif %}>
-  <div class="container">
-    {% if section.logo %}
-    <img src="{{ section.logo | relative_url }}" alt="{{ section.image.alt_text }}">
-    {% endif %}>
-    <div class="columns-2-ns">
-      <div class="column text">
-        <h1><span class="light">{{ section.headline }}</span></h1>
-        <p>{{ section.content }}</p>
-        {% if section.cta and section.cta.enabled == true %}
-        <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
+  <div class="pa4 pa5-l">
+
+    <div class="mw-100 mw-50-l pv4 mb5 absolute-ns bottom-1">
+    
+      <div class="mt7 mt0-ns grid ga4 columns-2-ns items-center">
+        
+        {% if section.logo %}
+        <img class="w-50 w-100-ns" 
+         src="{{ section.logo | relative_url }}" alt="{{ section.image.alt_text }}">
         {% endif %}
-      </div>
-      <div class="column media">
-        <img src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}">
+
+        <div class="">
+          <h1 class="fw1 f5 f4-m f3-l serif white lh-copy">{{ section.headline }}</h1>
+          <p class="white">{{ section.content }}</p>
+        </div>
+
       </div>
     </div>
   </div>

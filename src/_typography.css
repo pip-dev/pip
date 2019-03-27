@@ -10,26 +10,6 @@
 
 */
 
-.fancy-logo{
-  font-size: 25.5vw;
-  text-align: center;
-  color: #1E24FB;
-  margin: auto;
-  transition: 300ms;
-  transition-timing-function: ease;
-}
-
-
-.fancy-anim{
-  font-size: 7vw;
-  margin-top: -1em;
-
-}
-
-
-.multiply {mix-blend-mode: multiply;}
-
-
 
 /* Measure is limited to ~66 characters */
 .measure {

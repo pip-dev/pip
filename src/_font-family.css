@@ -5,61 +5,43 @@
 
 */
 
+
 @font-face {
-  font-family: 'Larsseit-Light';
-  src: url('../assets/fonts/Larsseit-Light.eot');
-  src: url('../assets/fonts/Larsseit-Light.ttf') format('truetype'),
-       url('../assets/fonts/Larsseit-Light.svg#Larsseit-Light') format('svg'),
-       url('../assets/fonts/Larsseit-Light.eot?#iefix') format('embedded-opentype');
+  font-family: 'LibreBaskerville-Regular';
+  src: url('./assets/fonts/LibreBaskerville-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Larsseit-Medium';
-  src: url('../assets/fonts/Larsseit-Medium.eot');
-  src: url('../assets/fonts/Larsseit-Medium.ttf') format('truetype'),
-       url('../assets/fonts/Larsseit-Medium.svg#Larsseit-Medium') format('svg'),
-       url('../assets/fonts/Larsseit-Medium.eot?#iefix') format('embedded-opentype');
+  font-family: 'LibreBaskerville-Bold';
+  src: url('./assets/fonts/LibreBaskerville-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Larsseit-Bold';
-  src: url('../assets/fonts/Larsseit-Bold.eot');
-  src: url('../assets/fonts/Larsseit-Bold.ttf') format('truetype'),
-       url('../assets/fonts/Larsseit-Bold.svg#Larsseit-Bold') format('svg'),
-       url('../assets/fonts/Larsseit-Bold.eot?#iefix') format('embedded-opentype');
+  font-family: 'LibreBaskerville-Italic';
+  src: url('./assets/fonts/LibreBaskerville-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 
 @font-face {
-    font-family: Aperçu-regular;
-    src: url("../assets/fonts/apercu_regular_pro.otf") format("opentype");
+    font-family: 'Aperçu-regular';
+    src: url("./assets/fonts/apercu_regular_pro.otf") format("opentype");
 }
 
 @font-face {
-    font-family: Aperçu-mono;
-    src: url("../assets/fonts/apercu_mono_pro.otf") format("opentype");
+    font-family: 'Aperçu-mono';
+    src: url("./assets/fonts/apercu_mono_pro.otf") format("opentype");
 }
 
 
 
 .sans-serif {
-  font-family: 'Larsseit-Bold', -apple-system, BlinkMacSystemFont,
-               'avenir next', avenir,
-               'helvetica neue', helvetica,
-               ubuntu,
-               roboto, noto,
-               'segoe ui', arial,
-               sans-serif;
-}
-
-.Larsseit-Light {
-  font-family: 'Larsseit-Light', -apple-system, BlinkMacSystemFont,
+  font-family: 'Aperçu-regular', -apple-system, BlinkMacSystemFont,
                'avenir next', avenir,
                'helvetica neue', helvetica,
                ubuntu,
@@ -70,7 +52,8 @@
 
 
 .serif {
-  font-family: georgia,
+  font-family: 'LibreBaskerville-Regular',
+               georgia,
                times,
                serif;
 }

@@ -1,17 +1,24 @@
-<header class="block block-header-1">
+<header class="z-1 absolute top-0">
 
-  <div class="block-header-1--logo">
+  <div class="grid relative container pa4 pa5-l">
+
+   {% if section.logo %}
+   <div class="">
     <a href="{{ site.url | relative_url }}">
       <img src="{{ section.logo | relative_url }}" alt="{{ site.title }}">
     </a>
   </div>
+   {% endif %}
 
-  <nav class="block-header-1--nav">
-    <ul>
+  <nav class="">
+    <ul class="mw-100">
+      <div class="flex">
       {% for nav_item in section.navigation %}
-      <li class="nav-item {% if page.url == nav_item.link %}active{% endif %}"><a href="{{ nav_item.link }}">{{ nav_item.link_text }}</a></li>
+      <li class="nav-item list dib pr4 sans-serif ttu tracked {% if page.url == nav_item.link %}active{% endif %}"><a class="white no-underline" href="{{ nav_item.link }}">{{ nav_item.link_text }}</a></li>
       {% endfor %}
+      </div>
     </ul>
   </nav>
+  </div>
 
 </header>
