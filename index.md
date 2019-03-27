@@ -42,8 +42,8 @@ page_sections:
   col_1:
     content: <span class="s1">We have built a reputation amongst our clients for delivering
       consulting, training and research products which actively support their business
-      goals.</span><br><span class="s1">We work with clients around the world from
-      our office in Wiltshire, England</span>
+      goals.<br></span><br><span class="s1">We work with clients around the world
+      from our office in Wiltshire, England</span>
     background_colour: "#FBF8F5"
     text_colour: "#060606"
   col_2:
