@@ -26,10 +26,10 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: In order to help our clients grow; as organisations and individuals we
-      use both training and coaching approaches.<br><br>Individuality is at the heart
-      of everything we provide. Each and every client has a different goal and culture
-      and we will always design a bespoke process based on each team's needs.
+    content: To help our clients grow; as organisations and individuals we use both
+      training and coaching approaches.<br><br>Individuality is at the heart of everything
+      we provide. Each and every client has a different goal and culture and we will
+      always design a bespoke process based on each team's needs.
     classes: column-start-2-ns column-end-5-ns
   col_2:
     headline: Capabilities
