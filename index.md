@@ -31,6 +31,10 @@ page_sections:
       everything we provide. Each and every client has a different goal and culture
       and we will always design a bespoke process based on each team's needs.
     classes: column-end-4
+  col_2:
+    headline: Capabilities
+    content: "<em>Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities
+      4</em>"
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
