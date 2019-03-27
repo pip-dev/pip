@@ -43,7 +43,8 @@ page_sections:
     content: Test
     background_colour: "#000000"
   col_2:
-    content: Test
+    content: <strong><span class="s1">ASDA<br>B</span><span class="s2">L</span><span
+      class="s3">U</span><span class="s4">E</span><span class="s2">F</span><span class="s3">IN<br>YOUGOV<br>FRANK<br>FOUND<br></span></strong>
     background_colour: "#272222"
     text_colour: "#FFFFFF"
 - template: 1-column-text
