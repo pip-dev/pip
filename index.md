@@ -30,7 +30,7 @@ page_sections:
       use both training and coaching approaches. Individuality is at the heart of
       everything we provide. Each and every client has a different goal and culture
       and we will always design a bespoke process based on each team's needs.
-    classes: column-start-1 column-end-5
+    classes: column-start-2 column-end-5
   col_2:
     headline: Capabilities
     content: "<em>Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities
