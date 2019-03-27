@@ -10,19 +10,6 @@ page_sections:
     link_text: About
   - link: "/contact"
     link_text: Contact
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: In order to help our clients grow; as organisations and individuals we
-      use both training and coaching approaches. Individuality is at the heart of
-      everything we provide. Each and every client has a different goal and culture
-      and we will always design a bespoke process based on each team's needs.
-    classes: column-start-2-ns column-end-5-ns
-  col_2:
-    headline: Capabilities
-    content: "<em>Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities
-      4</em>"
-    classes: column-start-5-ns column-end-7-ns
 - template: hero-banner-w-image
   block: hero-2
   headline: Leadership Development<br>Commercial Skills<br>Account Management
@@ -36,6 +23,19 @@ page_sections:
     alt_text: Product Shot
   background_image: "/uploads/Background-image.jpg"
   logo: "/uploads/logo-white-2.svg"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: In order to help our clients grow; as organisations and individuals we
+      use both training and coaching approaches. Individuality is at the heart of
+      everything we provide. Each and every client has a different goal and culture
+      and we will always design a bespoke process based on each team's needs.
+    classes: column-start-2-ns column-end-5-ns
+  col_2:
+    headline: Capabilities
+    content: "<em>Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities
+      4</em>"
+    classes: column-start-5-ns column-end-7-ns
 - template: 2-column-text
   block: two-column-1
 - template: 1-column-text
