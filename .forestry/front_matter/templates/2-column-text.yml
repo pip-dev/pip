@@ -23,3 +23,7 @@ fields:
     name: column
     label: Column
     template: text-column
+- type: boolean
+  name: panels
+  label: Panels
+  description: Display as panels
