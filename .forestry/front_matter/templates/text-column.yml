@@ -12,3 +12,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: text
+  name: classes
+  label: Classes
+  description: Bonus classes
