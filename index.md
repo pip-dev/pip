@@ -35,7 +35,7 @@ page_sections:
     headline: Capabilities
     content: "<em>Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities
       4</em>"
-    classes: columns start-5 column-end-6
+    classes: column-start-5 column-end-6
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
