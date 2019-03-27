@@ -12,9 +12,9 @@ page_sections:
     link_text: Contact
 - template: hero-banner-w-image
   block: hero-2
-  headline: ''
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
+  headline: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
+  content: Test secondary content
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
@@ -23,7 +23,7 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/Background-image.jpg"
-  logo: "/uploads/2logo-white.svg"
+  logo: "/uploads/logo-white-2.svg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
