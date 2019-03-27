@@ -15,4 +15,4 @@ fields:
 - type: text
   name: classes
   label: Classes
-  description: Bonus classes
+  description: Bonus classes go here
