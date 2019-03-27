@@ -1,14 +1,52 @@
+{% if section.panels %} 
+<section class="w-100 ">
+    <div class="grid columns-1 columns-2-l items-center">
+      <div class="tl pa4 pa5-m pa6-l" style="background-color: {{ section.col_1.background_colour }}">
+        <div class="center vh-50 grid columns-1">
+          <h3 
+        class="ttu sans-serif tracked f6"
+        style="color: {{ section.col_1.text_colour }}">
+        {{ section.col_1.headline }}</h3>
+        <p 
+        class="serif list lh-copy f4 fw1 dark-gray"
+        style="color: {{ section.col_1.text_colour }}">
+        {{ section.col_1.content }}</p>
+        </div>
+      </div>
+
+      <div class="tl pa4 pa5-m pa6-l " style="background-color: {{ section.col_2.background_colour }}">
+        <div class="center tc vh-50 grid columns-1">
+          <h3 
+        class="ttu sans-serif tracked f6" 
+        style="color: {{ section.col_2.text_colour }} ">
+        {{ section.col_2.headline }}</h3>
+        <p 
+        class="sans-serif list ttu tracked lh-copy f4 fw1 dark-gray"
+        style="color: {{ section.col_2.text_colour }} ">
+        {{ section.col_2.content }}</p>
+        </div>
+      </div> 
+
+    </div>
+</section>
+
+{% else %}
+
 <section class="block block-two-column-1">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
+  <div class="mw-100 mw8-ns center">
+    <div class="grid columns-1 columns-6-l ga4 ">
+      <div class="tl serif lh-copy f3 fw1 {{ section.col_1.classes }}">
         <h3>{{ section.col_1.headline }}</h3>
         <p>{{ section.col_1.content }}</p>
       </div>
-      <div class="column">
-        <h3>{{ section.col_2.headline }}</h3>
-        <p>{{ section.col_2.content }}</p>
+      <div class="tl {{ section.col_2.classes }} ">
+        <h3 class="ttu sans-serif tracked f6 mb3">{{ section.col_2.headline }}</h3>
+        <p class="serif list i lh-copy f3 fw1 dark-gray">{{ section.col_2.content }}</p>
       </div>           
     </div>
   </div>
 </section>
+{% endif %}
+
+
+

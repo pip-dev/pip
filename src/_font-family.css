@@ -6,23 +6,24 @@
 */
 
 
+
 @font-face {
   font-family: 'LibreBaskerville-Regular';
-  src: url('./assets/fonts/LibreBaskerville-Regular.ttf') format('truetype');
+  src: url('../assets/fonts/LibreBaskerville-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'LibreBaskerville-Bold';
-  src: url('./assets/fonts/LibreBaskerville-Bold.ttf') format('truetype');
+  src: url('../assets/fonts/LibreBaskerville-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'LibreBaskerville-Italic';
-  src: url('./assets/fonts/LibreBaskerville-Italic.ttf') format('truetype');
+  src: url('../assets/fonts/LibreBaskerville-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -30,12 +31,12 @@
 
 @font-face {
     font-family: 'Aperçu-regular';
-    src: url("./assets/fonts/apercu_regular_pro.otf") format("opentype");
+    src: url("../assets/fonts/apercu_regular_pro.otf") format("opentype");
 }
 
 @font-face {
     font-family: 'Aperçu-mono';
-    src: url("./assets/fonts/apercu_mono_pro.otf") format("opentype");
+    src: url("../assets/fonts/apercu_mono_pro.otf") format("opentype");
 }
 
 
@@ -50,9 +51,8 @@
                sans-serif;
 }
 
-
 .serif {
-  font-family: 'LibreBaskerville-Regular',
+  font-family: 'Spectral',
                georgia,
                times,
                serif;
