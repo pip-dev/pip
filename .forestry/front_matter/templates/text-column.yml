@@ -16,3 +16,8 @@ fields:
   name: classes
   label: Classes
   description: Bonus classes go here
+- type: color
+  name: background_colour
+  config:
+    color_format: Hex
+  label: Background colour
