@@ -42,6 +42,9 @@ page_sections:
   col_1:
     content: Test
     background_colour: "#000000"
+  col_2:
+    content: Test
+    background_colour: "#FF3C3C"
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
