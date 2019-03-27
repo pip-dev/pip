@@ -41,7 +41,8 @@ page_sections:
   panels: true
   col_1:
     content: Test
-    background_colour: "#000000"
+    background_colour: "#FBF8F5"
+    text_colour: "#060606"
   col_2:
     content: <strong><span class="s1">ASDA<br>B</span><span class="s2">L</span><span
       class="s3">U</span><span class="s4">E</span><span class="s2">F</span><span class="s3">IN<br>YOUGOV<br>FRANK<br>FOUND<br></span></strong>
