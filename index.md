@@ -38,6 +38,10 @@ page_sections:
     classes: column-start-5-ns column-end-7-ns
 - template: 2-column-text
   block: two-column-1
+  panels: true
+  col_1:
+    content: Test
+    background_colour: "#000000"
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
