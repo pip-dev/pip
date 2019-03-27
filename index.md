@@ -25,6 +25,8 @@ page_sections:
   logo: "/uploads/logo-white-2.svg"
 - template: 2-column-text
   block: two-column-1
+- template: 2-column-text
+  block: two-column-1
   col_1:
     content: In order to help our clients grow; as organisations and individuals we
       use both training and coaching approaches. Individuality is at the heart of
