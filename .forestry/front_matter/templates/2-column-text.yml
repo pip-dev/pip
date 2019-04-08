@@ -27,3 +27,7 @@ fields:
   name: panels
   label: Panels
   description: Display as panels
+- type: boolean
+  name: image
+  label: Image
+  description: Display image instead of text
