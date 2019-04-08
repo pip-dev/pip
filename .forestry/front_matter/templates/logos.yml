@@ -1,4 +1,13 @@
 ---
 label: logos
 hide_body: true
-fields: []
+fields:
+- type: file
+  name: logo-1
+  label: logo-1
+- type: file
+  name: logo-2
+  label: logo-2
+- type: file
+  name: logo-3
+  label: logo-3
