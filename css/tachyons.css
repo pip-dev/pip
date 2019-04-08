@@ -718,9 +718,7 @@ img { max-width: 100%; }
 @font-face { font-family: 'LibreBaskerville-Regular'; src: url( '../assets/fonts/LibreBaskerville-Regular.ttf' ) format( 'truetype' ); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'LibreBaskerville-Bold'; src: url( '../assets/fonts/LibreBaskerville-Bold.ttf' ) format( 'truetype' ); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'LibreBaskerville-Italic'; src: url( '../assets/fonts/LibreBaskerville-Italic.ttf' ) format( 'truetype' ); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'Aperçu-regular'; src: url( "../assets/fonts/apercu_regular_pro.otf" ) format( "opentype" ); }
-@font-face { font-family: 'Aperçu-mono'; src: url( "../assets/fonts/apercu_mono_pro.otf" ) format( "opentype" ); }
-.sans-serif { font-family: 'Aperçu-regular', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }
+.sans-serif { font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }
 .serif { font-family: 'Spectral', georgia, times, serif; }
 .system-sans-serif { font-family: sans-serif; }
 .system-serif { font-family: serif; }
