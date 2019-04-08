@@ -1,6 +1,7 @@
 {% if section.panels %} 
 <section class="w-100 ">
     <div class="grid columns-1 columns-2-l items-center">
+      
       <div class="tl pa4 pa5-m pa6-l" style="background-color: {{ section.col_1.background_colour }}">
         <div class="center vh-50 grid columns-1">
           <h3 
@@ -34,10 +35,10 @@
 
 <section class="block block-two-column-1">
   <div class="mw-100 mw8-ns center">
-    <div class="grid columns-1 columns-6-l ga4 ">
-      <div class="tl serif lh-copy f3 fw1 {{ section.col_1.classes }}">
+    <div class="grid-ns columns-1 columns-6-ns ga4 ">
+      <div class="tl serif lh-copy f3 fw1 {{ section.col_1.classes }} mb4 mb0-ns">
         <h3>{{ section.col_1.headline }}</h3>
-        <p>{{ section.col_1.content }}</p>
+        <p class="f3 lh-copy">{{ section.col_1.content }}</p>
       </div>
       <div class="tl {{ section.col_2.classes }} ">
         <h3 class="ttu sans-serif tracked f6 mb3">{{ section.col_2.headline }}</h3>
