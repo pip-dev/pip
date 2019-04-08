@@ -26,3 +26,6 @@ fields:
   config:
     color_format: Hex
   label: text colour
+- type: file
+  name: image
+  label: Image
