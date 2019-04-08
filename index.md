@@ -52,7 +52,7 @@ page_sections:
     background_colour: "#272222"
     text_colour: "#FFFFFF"
     image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
-    background_image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
+    background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
   image: true
 - template: simple-footer
   block: footer-1
