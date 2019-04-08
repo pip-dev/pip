@@ -56,9 +56,7 @@ fields:
 - type: file
   name: logo-18
   label: logo-18
-- type: blocks
-  name: logos
-  label: logos
-  hidden: true
-  template_types:
-  - page-builder
+- type: text
+  name: block
+  label: block
+  default: logos-section
