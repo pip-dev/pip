@@ -41,3 +41,9 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+- type: image_gallery
+  name: logos
+  label: logos
+- type: boolean
+  name: logo-feature
+  label: Logos
