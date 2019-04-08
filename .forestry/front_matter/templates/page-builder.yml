@@ -20,6 +20,7 @@ fields:
   - navigation-header
   - navigation-header-w-button
   - simple-header
+  - logos
   - hero-banner-w-image
   - content-feature
   - detail-content
