@@ -1,6 +1,6 @@
 ---
 label: logos
-hide_body: true
+hide_body: false
 fields:
 - type: file
   name: logo-1
