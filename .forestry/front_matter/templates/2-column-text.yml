@@ -29,5 +29,5 @@ fields:
   description: Display as panels
 - type: boolean
   name: image
-  label: image
+  label: Image
   description: Display image instead of text
