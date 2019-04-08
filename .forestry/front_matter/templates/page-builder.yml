@@ -36,6 +36,8 @@ fields:
   name: image
   label: Image
   description: Display an image instead of text
+  default: false
+  hidden: false
 pages:
 - index.md
 - contact.md
