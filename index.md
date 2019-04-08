@@ -51,6 +51,7 @@ page_sections:
       class="s3">U</span><span class="s4">E</span><span class="s2">F</span><span class="s3">IN<br>YOUGOV<br>FRANK<br>FOUND<br></span></strong>
     background_colour: "#272222"
     text_colour: "#FFFFFF"
+  image: true
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
