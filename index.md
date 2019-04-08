@@ -54,14 +54,12 @@ page_sections:
     image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
     background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
   image: true
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
 - template: content-feature
   block: feature-1
   media_alignment: Right
-- template: logos
-  logo-1: "/uploads/logo-white-2.svg"
+- template: simple-footer
+  block: footer-1
+  content: Hello world! ❤︎
 
 ---
 foo bar
