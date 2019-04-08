@@ -17,12 +17,13 @@
 
       {% if section.image %} 
 
-      <div class="tl pa4 pa5-m pa6-l" style="background-image: url('{{ section.col_2.background_image | relative_url }}') no-repeat center center fixed; background-size: cover;">
-      </div> 
+      <div class="cover w-100 h-100" style="background:url({{ section.col_2.background_image | relative_url }}) no-repeat center;">
+      </div>
+
 
       {% else %}
 
-      <div class="tl pa4 pa5-m pa6-l " style="background-color: {{ section.col_2.background_colour }}">
+      <div class="tl pa4 pa5-m pa6-l" style="background-color: {{ section.col_2.background_colour }}">
         <div class="center tc vh-50 grid columns-1">
           <h3 
         class="ttu sans-serif tracked f6" 
