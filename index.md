@@ -60,6 +60,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+- template: logos
+  logo-1: "/uploads/logo-white-2.svg"
 
 ---
 foo bar
