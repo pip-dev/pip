@@ -15,6 +15,13 @@
         </div>
       </div>
 
+      {% if section.image %} 
+
+      <div class="tl pa4 pa5-m pa6-l " style="background: url('{{ section.image | relative_url }}') no-repeat 68% center fixed; background-size: cover;">
+      </div> 
+
+      {% else %}
+
       <div class="tl pa4 pa5-m pa6-l " style="background-color: {{ section.col_2.background_colour }}">
         <div class="center tc vh-50 grid columns-1">
           <h3 
@@ -27,6 +34,10 @@
         {{ section.col_2.content }}</p>
         </div>
       </div> 
+      {% endif %}
+
+
+
 
     </div>
 </section>
