@@ -19,7 +19,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: ''
     alt_text: Product Shot
   background_image: "/uploads/Background-image.jpg"
   logo: "/uploads/logo-white-2.svg"
