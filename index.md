@@ -52,6 +52,7 @@ page_sections:
     background_colour: "#272222"
     text_colour: "#FFFFFF"
 - template: logos
+  logo-1: "/uploads/logo-white-2.svg"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
