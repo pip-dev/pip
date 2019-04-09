@@ -22,7 +22,7 @@ fields:
     hidden: false
     label: header
     name: header
-  - type: text
+  - type: textarea
     name: subheader
     label: Subheader
   - type: file
