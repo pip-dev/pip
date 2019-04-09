@@ -131,7 +131,7 @@ page_sections:
     header: Our core principles
   col_2:
     header: The coaching faculty
-    subheader: "Louise Hedges\nDeirdre Kenny \nDr Chris McCormick \nGlenda Marchant"
+    subheader: "Louise Hedges\n\nDeirdre Kenny \n\nDr Chris McCormick \n\nGlenda Marchant"
 - template: simple-footer
   block: footer-1
   content: About . Contact<br>© 2019 Pip consulting
