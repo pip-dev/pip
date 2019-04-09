@@ -22,6 +22,7 @@ fields:
   - simple-header
   - logos
   - hero-banner-w-image
+  - feature-images
   - content-feature
   - detail-content
   - 1-column-text
