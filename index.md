@@ -104,7 +104,7 @@ page_sections:
     text_colour: "#FFFFFF"
     image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
     background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
-    headline: The coaching faculty
+    headline: ''
   image: false
 - template: simple-footer
   block: footer-1
