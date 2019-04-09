@@ -1,33 +1,37 @@
-<section class="pa4 mv5 {{ section.bonus_classes }}" style="background-color: {{ section.background_color }} ">
-{% if section.header %}
-
- <div>{{ section.header }}</div>
- <div>{{ section.subheader }}</div>
-{% endif %}
-
-
- <div class="grid columns-1 columns-2-ns ga4">
+<section class="w-100 pv5" style="background-color: {{ section.background_color }} ">
   
-  <div>
-   {% if section.col_1.header %}
-      <div>{{ section.col_1.header }}</div>
-      <div>{{ section.col_1.subheader }}</div>
-      {% endif %}
+  <div class="mw-100 mw8-ns center pa4 {{ section.bonus_classes }}">
+  {% if section.header %}
 
-     {% if section.col_1.image %}
-      <img src="{{ section.col_1.image | relative_url }}">
-     {% endif %}
-  </div>
+   <div class="sans-serif f5 b mb3 tracked ttu">{{ section.header }}</div>
+   <div class="serif fw1 f4 fw1 dark-gray lh-copy">{{ section.subheader }}</div>
+  {% endif %}
 
-  <div>
-      {% if section.col_2.header %}
-      <div>{{ section.col_2.header }}</div>
-      <div>{{ section.col_2.subheader }}</div>
-      {% endif %}
 
-     {% if section.col_2.image %}
-      <img src="{{ section.col_2.image | relative_url }}">
-     {% endif %}
+   <div class="grid columns-1 columns-2-ns ga4">
+    
+    <div>
+     {% if section.col_1.header %}
+        <div class="sans-serif f5 b mb3 tracked ttu">{{ section.col_1.header }}</div>
+        <div class="serif fw1 f4 fw1 dark-gray lh-copy">{{ section.col_1.subheader }}</div>
+        {% endif %}
+
+       {% if section.col_1.image %}
+        <img src="{{ section.col_1.image | relative_url }}">
+       {% endif %}
+    </div>
+
+    <div>
+        {% if section.col_2.header %}
+        <div class="sans-serif f5 b mb3 tracked ttu">{{ section.col_2.header }}</div>
+        <div class="serif fw1 f4 fw1 dark-gray lh-copy">{{ section.col_2.subheader }}</div>
+        {% endif %}
+
+       {% if section.col_2.image %}
+        <img src="{{ section.col_2.image | relative_url }}">
+       {% endif %}
+    </div>
   </div>
 
 </section>
+
