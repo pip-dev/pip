@@ -49,7 +49,7 @@ page_sections:
   col_3:
     headline: Grow happy clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
-      tempor incidi dunt.
+      tempor incidi.
 - template: 2-column-text
   block: two-column-1
   panels: true
