@@ -89,10 +89,12 @@ page_sections:
   block: two-column-1
   panels: true
   col_1:
-    content: <span class="s1">We have built a reputation amongst our clients for delivering
-      consulting, training and research products which actively support their business
-      goals.<br></span><br><span class="s1">We work with clients around the world
-      from our office in Wiltshire, England</span>
+    content: Everything at Pip is based in:<br>A strengths approach, that people have
+      the ability to call on and develop different innate strengths for different
+      situations given the chance. Our training and coaching creates that opportunity.<br><br>We
+      believe that the position of trusted advisor is the one from which most value
+      can be added to business relationships and that trust must be earned by each
+      player on the team.
     background_colour: "#FBF8F5"
     text_colour: "#060606"
   col_2:
