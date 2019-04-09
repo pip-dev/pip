@@ -113,7 +113,7 @@ page_sections:
       of programmes all based in Trusted Advisor thinking.
   background_colour: "#FBF8F5"
   text_colour: "#383838"
-  bonus_classes: pb6 mb6
+  bonus_classes: pb5 mb6
 - template: feature-images
   block: feature-images
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
