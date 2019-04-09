@@ -96,13 +96,14 @@ page_sections:
     background_colour: "#FBF8F5"
     text_colour: "#060606"
   col_2:
-    content: <strong><span class="s1">ASDA<br>B</span><span class="s2">L</span><span
-      class="s3">U</span><span class="s4">E</span><span class="s2">F</span><span class="s3">IN<br>YOUGOV<br>FRANK<br>FOUND<br></span></strong>
+    content: "<strong>Louise Hedges<br>Deirdre Kenny<br>Dr Chris McCormick<br>Glenda
+      Marchant</strong>"
     background_colour: "#272222"
     text_colour: "#FFFFFF"
     image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
     background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
-  image: true
+    headline: The coaching faculty
+  image: false
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
