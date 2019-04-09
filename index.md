@@ -59,6 +59,12 @@ page_sections:
   logo-1: "/uploads/logo-white-2.svg"
 - template: 2-column-media-element
   block: media-2
+  col_1:
+    header: Leadership development
+    subheader: We train and coach leaders to lead so that they maximise the success
+      of their team and the individuals in it. Through our programmes, leaders uncover
+      their own  style, best habits and the ability to challenge and change positively.
+      We call this the strengths approach.
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
