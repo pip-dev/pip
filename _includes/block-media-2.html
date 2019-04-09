@@ -1,22 +1,30 @@
-<section class="block block-media-2">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
-        <figure>
-          <img src="{{ section.image_1.image | relative_url }}" alt="{{ section.image_1.caption }}">
-          {% if section.image_1.caption %}
-          <figcaption>{{ section.image_1.caption }}</figcaption>
-          {% endif %}
-        </figure>        
-      </div>
-      <div class="column">
-        <figure>
-            <img src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}">
-            {% if section.image_2.caption %}
-            <figcaption>{{ section.image_2.caption }}</figcaption>
-            {% endif %}
-        </figure>        
-      </div>
-    </div>
+<section class="pa4 mv5">
+
+ <div>{{ section.header }}</div>
+ <div>{{ section.subheader }}</div>
+
+ <div class="grid columns-1 columns-2-ns ga4">
+  
+  <div>
+   {% if section.col_1.header %}
+      <div>{{ section.col_1.header }}</div>
+      <div>{{ section.col_1.subheader }}</div>
+      {% endif %}
+
+     {% if section.col_1.image %}
+      <img src="{{ section.col_1.image | relative_url }}">
+     {% endif %}
   </div>
+
+  <div>
+      {% if section.col_2.header %}
+      <div>{{ section.col_2.header }}</div>
+      <div>{{ section.col_2.subheader }}</div>
+      {% endif %}
+
+     {% if section.col_2.image %}
+      <img src="{{ section.col_2.image | relative_url }}">
+     {% endif %}
+  </div>
+
 </section>
