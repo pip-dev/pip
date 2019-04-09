@@ -18,7 +18,7 @@ fields:
   - type: text
     hidden: false
     label: header
-    name: header  
+    name: header
   - type: file
     name: image
     label: image
@@ -32,11 +32,11 @@ fields:
   - type: text
     hidden: false
     label: header
-    name: header 
+    name: header
   - type: text
     hidden: false
     label: subheader
-    name: subheader   
+    name: subheader
   - type: file
     name: image
     label: Image
