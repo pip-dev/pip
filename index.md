@@ -40,6 +40,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Lead happy people
+  col_2:
+    headline: Win enviable clients
 - template: 2-column-text
   block: two-column-1
   panels: true
