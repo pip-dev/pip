@@ -57,9 +57,26 @@ page_sections:
     col_1: col_3
 - template: logos
   block: logos-section
-  logo-1: "/uploads/logo-white-2.svg"
+  logo-1: "/uploads/logo-1.svg"
   header: You're in good company
   subheader: We work with clients around the world from our office in Wiltshire, England
+  logo-2: "/uploads/logo-2.svg"
+  logo-3: "/uploads/logo-3.svg"
+  logo-4: "/uploads/logo-4.svg"
+  logo-5: "/uploads/logo-5.svg"
+  logo-6: "/uploads/logo-6.svg"
+  logo-7: "/uploads/logo-7.svg"
+  logo-8: "/uploads/logo-8.svg"
+  logo-9: "/uploads/logo-9.svg"
+  logo-10: "/uploads/logo-10.svg"
+  logo-11: "/uploads/logo-11.svg"
+  logo-12: "/uploads/logo-12.svg"
+  logo-13: "/uploads/logo-13.svg"
+  logo-14: "/uploads/logo-14.svg"
+  logo-15: "/uploads/logo-15.svg"
+  logo-16: "/uploads/logo-16.svg"
+  logo-17: "/uploads/logo-17.svg"
+  logo-18: "/uploads/logo-18.svg"
 - template: 2-column-media-element
   block: media-2
   col_1:
