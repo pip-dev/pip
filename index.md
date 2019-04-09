@@ -42,6 +42,8 @@ page_sections:
     headline: Lead happy people
   col_2:
     headline: Win enviable clients
+  col_3:
+    headline: Grow happy clients
 - template: 2-column-text
   block: two-column-1
   panels: true
