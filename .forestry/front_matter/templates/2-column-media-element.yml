@@ -39,10 +39,9 @@ fields:
     hidden: false
     label: header
     name: header
-  - type: text
-    hidden: false
-    label: subheader
+  - type: textarea
     name: subheader
+    label: Subheader
   - type: file
     name: image
     label: Image
