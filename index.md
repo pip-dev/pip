@@ -105,11 +105,9 @@ page_sections:
     background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
     headline: The coaching faculty
   image: false
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/logo-full-black.svg"
-  col_4: 'Contact<br>louise@hownowconsulting.com<br>​w: 01962 775167<br>m: 07734051006'
-  col_3: About<br>Services
+- template: simple-footer
+  block: footer-1
+  content: About . Contact<br>© 2019 Pip consulting
 
 ---
 foo bar
