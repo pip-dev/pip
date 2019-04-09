@@ -7,10 +7,18 @@ fields:
   label: block
   name: block
   default: media-2
+- type: text
+  hidden: false
+  label: header
+  name: header
 - type: field_group
-  name: image_1
-  label: " First Image"
+  name: col_1
+  label: " First column"
   fields:
+  - type: text
+    hidden: false
+    label: header
+    name: header  
   - type: file
     name: image
     label: image
@@ -18,9 +26,17 @@ fields:
     name: caption
     label: Caption
 - type: field_group
-  name: image_2
-  label: Second Image
+  name: col_2
+  label: Second column
   fields:
+  - type: text
+    hidden: false
+    label: header
+    name: header 
+  - type: text
+    hidden: false
+    label: subheader
+    name: subheader   
   - type: file
     name: image
     label: Image
