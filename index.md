@@ -113,6 +113,10 @@ page_sections:
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pb6
+- template: feature-images
+  block: feature-images
+  image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
+  image_2: "/uploads/motoki-tonn-744459-unsplash.jpg"
 - template: 2-column-text
   block: two-column-1
   panels: true
