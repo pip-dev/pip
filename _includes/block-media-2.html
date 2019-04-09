@@ -1,7 +1,10 @@
-<section class="pa4 mv5">
+<section class="pa4 mv5 {{ section.bonus_classes }}" style="background-color: {{ section.background_color }} ">
+{% if section.header %}
 
  <div>{{ section.header }}</div>
  <div>{{ section.subheader }}</div>
+{% endif %}
+
 
  <div class="grid columns-1 columns-2-ns ga4">
   
