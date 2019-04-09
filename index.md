@@ -81,6 +81,7 @@ page_sections:
   block: feature-images
   image_1: "/uploads/bogdan-glisik-698269-unsplash.jpg"
   image_2: "/uploads/isaac-cabezas-780217-unsplash.jpg"
+  image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
 - template: 2-column-media-element
   block: media-2
   col_1:
