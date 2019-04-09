@@ -7,3 +7,13 @@ fields:
   label: Block
   description: block
   hidden: true
+  default: feature-images
+- type: file
+  name: image_1
+  label: image_1
+- type: file
+  name: image_2
+  label: Image_2
+- type: file
+  name: image_3
+  label: Image_3
