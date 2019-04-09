@@ -66,7 +66,7 @@ page_sections:
       their own  style, best habits and the ability to challenge and change positively.
       We call this the strengths approach.
   background_colour: "#FBFBFB"
-  text_colour: "#201C1C"
+  text_colour: "#383838"
   bonus_classes: pt5
 - template: 2-column-media-element
   block: media-2
