@@ -29,3 +29,6 @@ fields:
 - type: file
   name: background_image
   label: Image
+- type: text
+  name: col_1
+  label: col_1
