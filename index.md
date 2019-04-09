@@ -46,10 +46,12 @@ page_sections:
     headline: Win enviable clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
       tempor incidi.
+    background_image: "/uploads/rocket.svg"
   col_3:
     headline: Grow happy clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
       tempor incidi.
+    background_image: "/uploads/heart.svg"
 - template: logos
   block: logos-section
   logo-1: "/uploads/logo-white-2.svg"
