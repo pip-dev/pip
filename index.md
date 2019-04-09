@@ -41,11 +41,11 @@ page_sections:
   col_1:
     headline: Lead happy people
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
-      tempor incidi dunt.
+      tempor incidi.
   col_2:
     headline: Win enviable clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
-      tempor incidi dunt.
+      tempor incidi.
   col_3:
     headline: Grow happy clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
