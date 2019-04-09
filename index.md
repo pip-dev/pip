@@ -119,27 +119,16 @@ page_sections:
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
   image_2: "/uploads/isaac-cabezas-780217-unsplash.jpg"
   image_3: "/uploads/jose-alejandro-cuffia-792587-unsplash.jpg"
-- template: 2-column-text
-  block: two-column-1
-  panels: true
+- template: 2-column-media-element
+  block: media-2
   col_1:
-    content: Everything at Pip is based in:<br><br>A strengths approach, that people
-      have the ability to call on and develop different innate strengths for different
-      situations given the chance. Our training and coaching creates that opportunity.<br><br>We
+    subheader: 'Everything at Pip is based in: A strengths approach, that people have
+      the ability to call on and develop different innate strengths for different
+      situations given the chance. Our training and coaching creates that opportunity.  We
       believe that the position of trusted advisor is the one from which most value
       can be added to business relationships and that trust must be earned by each
-      player on the team.
-    background_colour: "#EEEEEE"
-    text_colour: "#060606"
-    headline: Our core principles
-  col_2:
-    content: Louise Hedges<br>Deirdre Kenny<br>Dr Chris McCormick<br>Glenda Marchant
-    background_colour: "#FFFFFF"
-    text_colour: "#493D3D"
-    image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
-    background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
-    headline: The coaching faculty
-  image: false
+      player on the team.'
+    header: Our core principles
 - template: simple-footer
   block: footer-1
   content: About . Contact<br>© 2019 Pip consulting
