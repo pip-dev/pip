@@ -129,7 +129,7 @@ page_sections:
       believe that the position of trusted advisor is the one from which most value
       can be added to business relationships and that trust must be earned by each
       player on the team.
-    background_colour: "#FFFFFF"
+    background_colour: "#EEEEEE"
     text_colour: "#060606"
     headline: Our core principles
   col_2:
