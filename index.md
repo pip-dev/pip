@@ -77,6 +77,8 @@ page_sections:
   logo-16: "/uploads/logo-16.svg"
   logo-17: "/uploads/logo-17.svg"
   logo-18: "/uploads/logo-18.svg"
+- template: feature-images
+  block: feature-images
 - template: 2-column-media-element
   block: media-2
   col_1:
