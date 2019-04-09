@@ -95,11 +95,10 @@ page_sections:
       believe that the position of trusted advisor is the one from which most value
       can be added to business relationships and that trust must be earned by each
       player on the team.
-    background_colour: "#FBF8F5"
+    background_colour: "#FFFFFF"
     text_colour: "#060606"
   col_2:
-    content: "<strong>Louise Hedges<br>Deirdre Kenny<br>Dr Chris McCormick<br>Glenda
-      Marchant</strong>"
+    content: Louise Hedges<br>Deirdre Kenny<br>Dr Chris McCormick<br>Glenda Marchant
     background_colour: "#272222"
     text_colour: "#FFFFFF"
     image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
