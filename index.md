@@ -33,8 +33,7 @@ page_sections:
     classes: 'column-start-1 column-end-5 column-start-2-ns '
   col_2:
     headline: Capabilities
-    content: "<em>Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities
-      4</em>"
+    content: Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities 4
     classes: column-start-5-ns column-end-7-ns
 - template: 3-column-text
   block: three-column-1
