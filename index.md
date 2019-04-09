@@ -36,6 +36,8 @@ page_sections:
     content: "<em>Capabilities 1<br>Capabilities 2<br>Capabilities 3<br>Capabilities
       4</em>"
     classes: column-start-5-ns column-end-7-ns
+- template: 3-column-text
+  block: three-column-1
 - template: 2-column-text
   block: two-column-1
   panels: true
