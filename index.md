@@ -89,8 +89,8 @@ page_sections:
   block: two-column-1
   panels: true
   col_1:
-    content: Everything at Pip is based in:<br>A strengths approach, that people have
-      the ability to call on and develop different innate strengths for different
+    content: Everything at Pip is based in:<br><br>A strengths approach, that people
+      have the ability to call on and develop different innate strengths for different
       situations given the chance. Our training and coaching creates that opportunity.<br><br>We
       believe that the position of trusted advisor is the one from which most value
       can be added to business relationships and that trust must be earned by each
