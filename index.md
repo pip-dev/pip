@@ -49,24 +49,6 @@ page_sections:
     headline: Grow happy clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
       tempor incidi.
-- template: 2-column-text
-  block: two-column-1
-  panels: true
-  col_1:
-    content: <span class="s1">We have built a reputation amongst our clients for delivering
-      consulting, training and research products which actively support their business
-      goals.<br></span><br><span class="s1">We work with clients around the world
-      from our office in Wiltshire, England</span>
-    background_colour: "#FBF8F5"
-    text_colour: "#060606"
-  col_2:
-    content: <strong><span class="s1">ASDA<br>B</span><span class="s2">L</span><span
-      class="s3">U</span><span class="s4">E</span><span class="s2">F</span><span class="s3">IN<br>YOUGOV<br>FRANK<br>FOUND<br></span></strong>
-    background_colour: "#272222"
-    text_colour: "#FFFFFF"
-    image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
-    background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
-  image: true
 - template: logos
   block: logos-section
   logo-1: "/uploads/logo-white-2.svg"
@@ -101,6 +83,24 @@ page_sections:
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pb6
+- template: 2-column-text
+  block: two-column-1
+  panels: true
+  col_1:
+    content: <span class="s1">We have built a reputation amongst our clients for delivering
+      consulting, training and research products which actively support their business
+      goals.<br></span><br><span class="s1">We work with clients around the world
+      from our office in Wiltshire, England</span>
+    background_colour: "#FBF8F5"
+    text_colour: "#060606"
+  col_2:
+    content: <strong><span class="s1">ASDA<br>B</span><span class="s2">L</span><span
+      class="s3">U</span><span class="s4">E</span><span class="s2">F</span><span class="s3">IN<br>YOUGOV<br>FRANK<br>FOUND<br></span></strong>
+    background_colour: "#272222"
+    text_colour: "#FFFFFF"
+    image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
+    background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
+  image: true
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
