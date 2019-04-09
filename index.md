@@ -41,6 +41,7 @@ page_sections:
     headline: Lead happy people
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
       tempor incidi.
+    background_image: "/uploads/smile.svg"
   col_2:
     headline: Win enviable clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
