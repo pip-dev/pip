@@ -74,6 +74,7 @@ page_sections:
       business. From creating an inspiring business development strategy and practical
       plan, outreach, pitching to coaching your team to engage with the scary guys
       in procurement and everything in between. '
+  background_colour: "#4A4A4A"
 - template: 2-column-media-element
   block: media-2
   col_1:
