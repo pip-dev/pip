@@ -105,9 +105,9 @@ page_sections:
     background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
     headline: The coaching faculty
   image: false
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/logo-full-black.svg"
 
 ---
 foo bar
