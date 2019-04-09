@@ -99,8 +99,8 @@ page_sections:
     text_colour: "#060606"
   col_2:
     content: Louise Hedges<br>Deirdre Kenny<br>Dr Chris McCormick<br>Glenda Marchant
-    background_colour: "#493F3F"
-    text_colour: "#FFFFFF"
+    background_colour: "#FFFFFF"
+    text_colour: "#493D3D"
     image: "/uploads/Screen Shot 2018-05-10 at 11.21.33.png"
     background_image: "/uploads/you-x-ventures-1439462-unsplash.jpg"
     headline: The coaching faculty
