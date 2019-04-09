@@ -40,6 +40,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Lead happy people
+    content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
+      tempor incidi dunt.
   col_2:
     headline: Win enviable clients
   col_3:
