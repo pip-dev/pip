@@ -65,6 +65,14 @@ page_sections:
       of their team and the individuals in it. Through our programmes, leaders uncover
       their own  style, best habits and the ability to challenge and change positively.
       We call this the strengths approach.
+- template: 2-column-media-element
+  block: media-2
+  col_1:
+    header: Commercial Skills
+    subheader: 'We help with everything involved in developing a strong commercial
+      business. From creating an inspiring business development strategy and practical
+      plan, outreach, pitching to coaching your team to engage with the scary guys
+      in procurement and everything in between. '
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
