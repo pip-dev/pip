@@ -117,7 +117,7 @@ page_sections:
 - template: feature-images
   block: feature-images
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
-  image_2: "/uploads/motoki-tonn-744459-unsplash.jpg"
+  image_2: "/uploads/isaac-cabezas-780217-unsplash.jpg"
   image_3: "/uploads/jose-alejandro-cuffia-792587-unsplash.jpg"
 - template: 2-column-text
   block: two-column-1
