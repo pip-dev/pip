@@ -1,14 +1,19 @@
-<section class="w-100">
-  <div class="mw-100 mw8-ns center pa4 tc mv4">
-    <div class="grid columns-2 align-center">
+<section class="w-100 ">
+  <div class="mw-100 mw8-ns center ph4 pt4 tc mt4">
+    <div class="relative vh-50">
 
-        <div class="w5 h5">
-          <img src="{{ section.image_1 | relative_url }}">
+        <div class="absolute bottom-0 left 0 z-2">
+          <img class="h4" src="{{ section.image_1 | relative_url }}">
         </div>
 
-        <div>
-          <img src="{{ section.image_2 | relative_url }}">
+        <div class="absolute bottom-0 left-2 z-1">
+          <img class="h5" src="{{ section.image_2 | relative_url }}">
         </div>
+
+        <div class="absolute bottom--3 z-1">
+          <img class="w3" src="{{ section.image_3 | relative_url }}">
+        </div>
+
 
       </div>
 </section>
