@@ -44,8 +44,12 @@ page_sections:
       tempor incidi dunt.
   col_2:
     headline: Win enviable clients
+    content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
+      tempor incidi dunt.
   col_3:
     headline: Grow happy clients
+    content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
+      tempor incidi dunt.
 - template: 2-column-text
   block: two-column-1
   panels: true
