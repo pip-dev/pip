@@ -67,6 +67,7 @@ page_sections:
       We call this the strengths approach.
   background_colour: "#FBFBFB"
   text_colour: "#201C1C"
+  bonus_classes: pt5
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -75,8 +76,8 @@ page_sections:
       business. From creating an inspiring business development strategy and practical
       plan, outreach, pitching to coaching your team to engage with the scary guys
       in procurement and everything in between. '
-  background_colour: "#2A1B1B"
-  text_colour: "#F8F8F8"
+  background_colour: "#FBFBFB"
+  text_colour: "#383838"
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -86,6 +87,7 @@ page_sections:
       of programmes all based in Trusted Advisor thinking.
   background_colour: "#FBFBFB"
   text_colour: "#383838"
+  bonus_classes: pb5
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
