@@ -1,4 +1,9 @@
 ---
 label: Feature images
 hide_body: true
-fields: []
+fields:
+- type: text
+  name: block
+  label: Block
+  description: block
+  hidden: true
