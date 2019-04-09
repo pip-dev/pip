@@ -48,11 +48,13 @@ page_sections:
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
       tempor incidi.
     background_image: "/uploads/rocket.svg"
+    col_1: col_2
   col_3:
     headline: Grow happy clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
       tempor incidi.
     background_image: "/uploads/heart.svg"
+    col_1: col_3
 - template: logos
   block: logos-section
   logo-1: "/uploads/logo-white-2.svg"
