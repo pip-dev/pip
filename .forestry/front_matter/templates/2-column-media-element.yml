@@ -48,6 +48,9 @@ fields:
   - type: text
     name: caption
     label: Caption
+  - type: list
+    name: names-list
+    label: Names
 - type: color
   name: background_colour
   config:
@@ -61,10 +64,3 @@ fields:
 - type: text
   name: bonus_classes
   label: bonus classes
-- type: list
-  name: names-list
-  label: names
-  config:
-    use_select: false
-    source:
-      type: documents
