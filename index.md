@@ -129,6 +129,9 @@ page_sections:
       can be added to business relationships and that trust must be earned by each
       player on the team.'
     header: Our core principles
+  col_2:
+    header: The coaching faculty
+    subheader: Louise Hedges Deirdre Kenny Dr Chris McCormick Glenda Marchant
 - template: simple-footer
   block: footer-1
   content: About . Contact<br>© 2019 Pip consulting
