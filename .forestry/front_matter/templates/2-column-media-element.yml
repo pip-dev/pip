@@ -54,6 +54,11 @@ fields:
   config:
     color_format: Hex
   label: Background colour
+- type: color
+  name: text_colour
+  config:
+    color_format: Hex
+  label: Text colour
 - type: text
   name: bonus_classes
   label: bonus classes
