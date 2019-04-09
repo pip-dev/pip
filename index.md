@@ -107,7 +107,7 @@ page_sections:
   image: false
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/logo-full-black-1.svg"
+  image: "/uploads/logo-full-black.svg"
   col_4: 'Contact<br>louise@hownowconsulting.com<br>​w: 01962 775167<br>m: 07734051006'
   col_3: About<br>Services
 
