@@ -84,8 +84,8 @@ page_sections:
     subheader: Happy clients and happy teams are key to thriving as a business.  We
       help all levels in the team get it right and make it look easy though a raft
       of programmes all based in Trusted Advisor thinking.
-  background_colour: "#2A1B1B"
-  text_colour: "#F6F6F6"
+  background_colour: "#FBFBFB"
+  text_colour: "#383838"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
