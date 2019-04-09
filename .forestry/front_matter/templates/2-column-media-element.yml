@@ -19,6 +19,9 @@ fields:
     hidden: false
     label: header
     name: header
+  - type: text
+    name: subheader
+    label: Subheader
   - type: file
     name: image
     label: image
