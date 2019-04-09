@@ -31,4 +31,5 @@ fields:
   label: Image
 - type: text
   name: col_1
-  label: col_1
+  label: block
+  hidden: true
