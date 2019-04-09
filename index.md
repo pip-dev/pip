@@ -52,6 +52,8 @@ page_sections:
 - template: logos
   block: logos-section
   logo-1: "/uploads/logo-white-2.svg"
+  header: You're in good company
+  subheader: We work with clients around the world from our office in Wiltshire, England
 - template: 2-column-media-element
   block: media-2
   col_1:
