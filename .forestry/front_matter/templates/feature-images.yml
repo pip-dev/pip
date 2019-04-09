@@ -17,3 +17,7 @@ fields:
 - type: file
   name: image_3
   label: Image_3
+- type: boolean
+  name: layout-1
+  label: Layout-1
+  description: Use layout 1?
