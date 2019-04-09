@@ -131,6 +131,7 @@ page_sections:
       player on the team.
     background_colour: "#FFFFFF"
     text_colour: "#060606"
+    headline: Our core principles
   col_2:
     content: Louise Hedges<br>Deirdre Kenny<br>Dr Chris McCormick<br>Glenda Marchant
     background_colour: "#FFFFFF"
