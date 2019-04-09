@@ -11,6 +11,9 @@ fields:
   hidden: false
   label: header
   name: header
+- type: text
+  name: subheader
+  label: Subheader
 - type: field_group
   name: col_1
   label: " First column"
@@ -46,3 +49,11 @@ fields:
   - type: text
     name: caption
     label: Caption
+- type: color
+  name: background_colour
+  config:
+    color_format: Hex
+  label: Background colour
+- type: text
+  name: bonus_classes
+  label: bonus classes
