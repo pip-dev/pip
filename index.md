@@ -108,9 +108,8 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/logo-full-black-1.svg"
-  col_4: "<strong>Contact</strong><br>louise@hownowconsulting.com<br>​w: 01962 775167<br>m:
-    07734051006"
-  col_3: "<strong>About</strong><br><strong>Services</strong>"
+  col_4: 'Contact<br>louise@hownowconsulting.com<br>​w: 01962 775167<br>m: 07734051006'
+  col_3: About<br>Services
 
 ---
 foo bar
