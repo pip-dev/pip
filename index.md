@@ -42,6 +42,7 @@ page_sections:
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
       tempor incidi.
     background_image: "/uploads/smile.svg"
+    col_1: col_1
   col_2:
     headline: Win enviable clients
     content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
