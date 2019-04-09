@@ -107,7 +107,9 @@ page_sections:
   image: false
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/logo-full-black.svg"
+  image: "/uploads/logo-full-black-1.svg"
+  col_4: Contact
+  col_3: About
 
 ---
 foo bar
