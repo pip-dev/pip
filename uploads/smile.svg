@@ -1,1 +1,14 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><defs><style>.cls-1{fill:#d1d1d1;}</style></defs><title>2Artboard 2</title><path class="cls-1" d="M25,8.3A16.7,16.7,0,1,0,41.7,25,16.72,16.72,0,0,0,25,8.3Zm0,31.75a15,15,0,1,1,15-15A15.07,15.07,0,0,1,25,40.05Z"/><circle class="cls-1" cx="31.57" cy="21.34" r="2.64"/><path class="cls-1" d="M25,34.59a6.14,6.14,0,0,0,6.14-6.14H18.86A6.14,6.14,0,0,0,25,34.59Z"/><circle class="cls-1" cx="18.43" cy="21.34" r="2.64"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D1D1D1;}
+</style>
+<title>2Artboard 2</title>
+<path class="st0" d="M19.7,6.9C9.7,6.9,1.6,15,1.6,25s8.1,18.1,18.1,18.1S37.8,35,37.8,25l0,0C37.8,15,29.7,6.9,19.7,6.9z
+	 M19.7,41.3c-9,0-16.3-7.3-16.3-16.3S10.7,8.8,19.7,8.8s16.3,7.3,16.3,16.3C35.9,34,28.6,41.3,19.7,41.3z"/>
+<circle class="st0" cx="26.8" cy="21" r="2.9"/>
+<path class="st0" d="M19.7,35.4c3.7,0,6.7-3,6.7-6.7H13C13,32.4,16,35.4,19.7,35.4z"/>
+<circle class="st0" cx="12.5" cy="21" r="2.9"/>
+</svg>

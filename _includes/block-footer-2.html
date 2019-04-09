@@ -1,16 +1,21 @@
-<section class="block block-footer-2">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
-        <img src="{{ section.image }}" width="24" height="auto" alt="Logo">
+<section class="w-100 pv4">
+  <div class="mw-100 mw8-ns center pa4 {{ section.bonus_classes }}">
+    <div class="grid columns-1 columns-4-ns">
+      <div class="tl sans-serif lh-copy w4">
+          <a href="{{ site.url | relative_url }}">
+            <img src="{{ section.image | relative_url }}" alt="{{ site.title }}">
+          </a>
       </div>
-      <div class="column">
+
+      <div class="tl sans-serif lh-copy">
         {{ section.col_2 }}
       </div>
-      <div class="column">
+
+      <div class="tl sans-serif lh-copy">
           {{ section.col_3 }}
       </div>
-      <div class="column">
+
+      <div class="tl sans-serif lh-copy">
           {{ section.col_4 }}
       </div>
     </div>

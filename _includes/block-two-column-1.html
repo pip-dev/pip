@@ -24,15 +24,20 @@
       {% else %}
 
       <div class="tl pa4 pa5-m pa6-l" style="background-color: {{ section.col_2.background_colour }}">
-        <div class="center tc vh-50 grid columns-1">
-          <h3 
-        class="ttu sans-serif tracked f6" 
-        style="color: {{ section.col_2.text_colour }} ">
-        {{ section.col_2.headline }}</h3>
-        <p 
-        class="sans-serif list ttu tracked lh-copy f4 fw1 dark-gray"
-        style="color: {{ section.col_2.text_colour }} ">
-        {{ section.col_2.content }}</p>
+        <div class="center tc vh-50 grid columns-1 items-center">
+          <div>
+        {% if section.col_2.headline %} 
+          <h3 class="tl ttu sans-serif tracked-mega f6 fw6 mb4" 
+          style="color: {{ section.col_2.text_colour }} ">
+          {{ section.col_2.headline }}</h3>
+        {% endif %}
+        
+          <p class="tl serif f3 fw3 black-80 lh-copy tracked black-40 i"
+          style="color: {{ section.col_2.text_colour }} ">
+          {{ section.col_2.content }}</p>
+
+          </div>
+
         </div>
       </div> 
       {% endif %}
