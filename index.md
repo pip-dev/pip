@@ -65,7 +65,7 @@ page_sections:
       of their team and the individuals in it. Through our programmes, leaders uncover
       their own  style, best habits and the ability to challenge and change positively.
       We call this the strengths approach.
-  background_colour: "#FBFBFB"
+  background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pt5
 - template: 2-column-media-element
