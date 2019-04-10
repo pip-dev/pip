@@ -122,12 +122,12 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   col_1:
-    subheader: 'Everything at Pip is based in: A strengths approach, that people have
-      the ability to call on and develop different innate strengths for different
-      situations given the chance. Our training and coaching creates that opportunity.  We
+    subheader: "Everything at Pip is based in: \nA strengths approach, that people
+      have the ability to call on and develop different innate strengths for different
+      situations given the chance. Our training and coaching creates that opportunity.\nWe
       believe that the position of trusted advisor is the one from which most value
       can be added to business relationships and that trust must be earned by each
-      player on the team.'
+      player on the team."
     header: Our core principles
   col_2:
     header: The coaching faculty
