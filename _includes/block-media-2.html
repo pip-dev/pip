@@ -8,12 +8,12 @@
   {% endif %}
 
 
-   <div class="grid columns-1 columns-2-ns ga4">
+   <div class="grid columns-1 columns-2-ns ga5">
     
     <div>
      {% if section.col_1.header %}
         <div class="sans-serif f4 b mb3 tracked fw6" style="color: {{ section.text_colour }}">{{ section.col_1.header }}</div>
-        <div class="serif fw1 f4 fw1 dark-gray lh-copy" style="color: {{ section.text_colour }}">{{ section.col_1.subheader }}</div>
+        <div class="serif fw1 f4 fw1 dark-gray lh-copy " style="color: {{ section.text_colour }}">{{ section.col_1.subheader }}</div>
         {% endif %}
 
        {% if section.col_1.image %}
@@ -24,8 +24,17 @@
     <div>
         {% if section.col_2.header %}
         <div class="sans-serif f4 b mb3 tracked fw6" style="color: {{ section.text_colour }}">{{ section.col_2.header }}</div>
-        <div class="serif fw1 f4 fw1 dark-gray lh-copy" style="color: {{ section.text_colour }}">{{ section.col_2.subheader }}</div>
         {% endif %}
+
+        <ul class="list serif f4 fw1 dark-gray">
+
+        {% for names in section.col_2.names-list %}
+          <li class="mb2">{{ names }}</li>
+        {% endfor %}
+           
+        </ul>
+
+
 
        {% if section.col_2.image %}
         <img src="{{ section.col_2.image | relative_url }}">
