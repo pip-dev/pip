@@ -20,7 +20,7 @@ page_sections:
     button_text: ''
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/Background-image.jpg"
   logo: "/uploads/logo-full-white.svg"
 - template: 2-column-text
