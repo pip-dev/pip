@@ -26,10 +26,13 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: To help our clients grow; as organisations and individuals we use both
-      training and coaching approaches.<br><br>Individuality is at the heart of everything
-      we provide. Each and every client has a different goal and culture and we will
-      always design a bespoke process based on each team's needs.
+    content: Our mission is to help our clients grow; both as organisations and individuals.
+      We use training, coaching and consulting approaches to do that<br><br>While
+      business performance improvement is our goal, individuality is at the heart
+      of everything we do. Each and every client has a different goal, situation and
+      culture and we will always design a bespoke process based on each team's needs.
+      <br><br>In making it bespoke we find we can make performance improvements sustainable
+      and inspiring.
     classes: 'column-start-1 column-end-5 column-start-2-l '
   col_2:
     headline: Capabilities
