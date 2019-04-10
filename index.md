@@ -12,17 +12,17 @@ page_sections:
     link_text: Contact
 - template: hero-banner-w-image
   block: hero-2
-  headline: Leadership Development<br>Commercial Skills<br>Account Management
+  headline: ''
   content: ''
   cta:
     enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: ''
+    button_text: ''
   image:
     image: ''
     alt_text: Product Shot
   background_image: "/uploads/Background-image.jpg"
-  logo: "/uploads/logo-white-2.svg"
+  logo: "/uploads/logo-full-white.svg"
 - template: 2-column-text
   block: two-column-1
   col_1:
