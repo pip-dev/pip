@@ -6,10 +6,10 @@ style="background: url('{{ section.background_image | relative_url }}') no-repea
 
     <div class="pv4 mb2 mb4-ns absolute bottom-1">
     
-      <div class="mt7 mt0-ns grid ga4 columns-2-ns items-center">
+      <div class="mt7 mt0-ns">
         
         {% if section.logo %}
-        <img class="w-50 w-100-ns" 
+        <img style="height:9rem" 
          src="{{ section.logo | relative_url }}" alt="{{ section.image.alt_text }}">
         {% endif %}
 
