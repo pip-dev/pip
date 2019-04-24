@@ -8,10 +8,13 @@ page_sections:
   navigation:
   - link: "/index"
     link_text: HOME
+    background_colour: "#000000"
   - link_text: ABOUT
     link: "/ABOUT"
+    background_colour: "#000000"
   - link: "/contact"
     link_text: CONTACT
+    background_colour: "#000000"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2019/04/24/marten-bjork-707746-unsplash.jpg"
