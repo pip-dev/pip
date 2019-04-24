@@ -5,6 +5,9 @@ date: ''
 page_sections:
 - template: navigation-header
   block: header-1
+  navigation:
+  - link_text: ABOUT
+    link: "/ABOUT"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2019/04/24/marten-bjork-707746-unsplash.jpg"
