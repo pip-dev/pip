@@ -20,5 +20,11 @@ fields:
   - type: text
     name: link_text
     label: Link text
+  - name: background_colour
+    type: color
+    label: Text colour
+    config:
+      required: false
+      color_format: Hex
   config:
     labelField: link_text
