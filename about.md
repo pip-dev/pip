@@ -16,7 +16,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2019/04/24/marten-bjork-707746-unsplash.jpg"
   headline: About us
-  logo: "/uploads/logo-full-white.svg"
+  logo: ''
 - template: 1-column-text
   block: one-column-1
   content: The people at Pip are highly commercial and leadership experienced, senior
