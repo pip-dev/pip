@@ -32,6 +32,7 @@ page_sections:
       coach people to excel at. Once we have helped with that learning, our client
       can then use that trust to make a greater impact on their client's. This is
       the essence of good selling, account management, consulting and leadership.<br>
+  panels: true
 menu:
   main:
     weight: 2
