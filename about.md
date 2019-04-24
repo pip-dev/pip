@@ -8,10 +8,10 @@ page_sections:
   navigation:
   - link: "/index"
     link_text: HOME
-  - link: "/contact"
-    link_text: CONTACT
   - link_text: ABOUT
     link: "/ABOUT"
+  - link: "/contact"
+    link_text: CONTACT
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2019/04/24/marten-bjork-707746-unsplash.jpg"
