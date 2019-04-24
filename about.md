@@ -43,6 +43,25 @@ page_sections:
       can then use that trust to make a greater impact on their client's. This is
       the essence of good selling, account management, consulting and leadership.<br>
   panels: true
+- template: 2-column-text
+  block: two-column-1
+  col_2:
+    content: Our mission is to help our clients to be happy, profitable organisations
+      who have enviable, happy clients themselves.<br><br>The philosophy at Pip is
+      made up of two elements; one is about the person we are working with and the
+      other is about how we believe we and they should go about their business.<br><br>Our
+      belief about the person is that they are made up of a number of individual strengths
+      and that in order to develop they simply need to bring to the fore the right
+      strength for that situation. We often find that the barrier to someone's success
+      is over-using one strength and under-using a better one for that moment. Our
+      role is to help the person turn the dials on each, becoming more flexible, effective
+      and happy in their role as a result.<br><br>Our business philosophy is that
+      trust is central to everything and that earning it can be learnt. The process
+      of building trust is made up of mind-sets, habits and skills which are what
+      we train and coach people to excel at. Once we have helped with that learning,
+      our client can then use that trust to make a greater impact on their client's.
+      This is the essence of good selling, account management, consulting and leadership.
+    headline: WHY WE ARE
 menu:
   main:
     weight: 2
