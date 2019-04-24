@@ -50,3 +50,9 @@ fields:
 - type: file
   name: logo
   label: Logo
+- name: background_colour
+  type: color
+  config:
+    required: false
+    color_format: Hex
+  label: Text colour
