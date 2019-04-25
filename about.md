@@ -33,6 +33,8 @@ page_sections:
   block: feature-images
   layout-1: true
   image_1: "/uploads/2019/04/25/daniel-fazio-558736-unsplash.jpg"
+  image_2: "/uploads/2019/04/25/Screen Shot 2018-05-10 at 11.21.33.png"
+  image_3: "/uploads/2019/04/25/daniel-apodaca-584113-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: Why we are
@@ -54,6 +56,8 @@ page_sections:
   background_colour: "#FBF8F5"
 - template: feature-images
   block: feature-images
+  image_1: "/uploads/2019/04/25/kelly-sikkema-1450501-unsplash.jpg"
+  image_2: "/uploads/2019/04/25/Screen Shot 2018-05-10 at 11.21.33.png"
 - template: simple-footer
   block: footer-1
 menu:
