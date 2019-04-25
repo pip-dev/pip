@@ -28,7 +28,7 @@ page_sections:
     with every client to bring the right talent to each project in order to maximise
     the success of the client's team.<br><br>Together this network of performance
     developers creates good change within organisations and people.
-  headline: WHO WE ARE
+  headline: Who we are
 - template: 1-column-text
   block: one-column-1
   headline: WHY WE ARE
