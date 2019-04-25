@@ -29,6 +29,8 @@ page_sections:
     the success of the client's team.<br><br>Together this network of performance
     developers creates good change within organisations and people.
   headline: Who we are
+- template: feature-images
+  block: feature-images
 - template: 1-column-text
   block: one-column-1
   headline: Why we are
@@ -48,6 +50,8 @@ page_sections:
     trust to make a greater impact on their client's. This is the essence of good
     selling, account management, consulting and leadership.
   background_colour: "#FBF8F5"
+- template: feature-images
+  block: feature-images
 - template: simple-footer
   block: footer-1
 menu:
