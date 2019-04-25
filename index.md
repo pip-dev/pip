@@ -27,7 +27,7 @@ page_sections:
   block: two-column-1
   col_1:
     content: Our mission is to help our clients grow; both as organisations and individuals.
-      We use training, coaching and consulting approaches to do that<br><br>While
+      To do that we use training, coaching and consulting approaches.<br><br>While
       business performance improvement is our goal, individuality is at the heart
       of everything we do. Each and every client has a different goal, situation and
       culture and we will always design a bespoke process based on each team's needs.
