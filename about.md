@@ -8,13 +8,13 @@ page_sections:
   navigation:
   - link: "/index"
     link_text: HOME
-    background_colour: "#000000"
+    background_colour: "#FFFFFF"
   - link_text: ABOUT
     link: "/ABOUT"
-    background_colour: "#000000"
+    background_colour: "#FFFFFF"
   - link: "/contact"
     link_text: CONTACT
-    background_colour: "#000000"
+    background_colour: "#FFFFFF"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2019/04/25/brooke-cagle-609873-unsplash.jpg"
