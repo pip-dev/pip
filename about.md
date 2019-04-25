@@ -17,7 +17,7 @@ page_sections:
     background_colour: "#000000"
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2019/04/24/marten-bjork-707746-unsplash.jpg"
+  background_image: "/uploads/2019/04/25/brooke-cagle-609873-unsplash.jpg"
   headline: About us
   logo: ''
 - template: 1-column-text
