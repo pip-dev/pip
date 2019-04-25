@@ -47,6 +47,7 @@ page_sections:
     to excel at. Once we have helped with that learning, our client can then use that
     trust to make a greater impact on their client's. This is the essence of good
     selling, account management, consulting and leadership.
+  background_colour: "#F6F6F6"
 - template: simple-footer
   block: footer-1
 menu:
