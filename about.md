@@ -20,6 +20,7 @@ page_sections:
   background_image: "/uploads/2019/04/25/brooke-cagle-609873-unsplash.jpg"
   headline: About us
   logo: ''
+  background_colour: "#FFFFFF"
 - template: 1-column-text
   block: one-column-1
   content: The people at Pip are highly commercial and leadership experienced, senior
