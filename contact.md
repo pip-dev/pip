@@ -13,6 +13,10 @@ page_sections:
   text_colour: ''
   background_image: ''
   col_1: ''
+- template: simple-footer
+  block: footer-1
+  content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
+    href="/contact" title="Contact">Contact</a><br>© 2019 Pip consulting
 menu:
   main:
     weight: 3

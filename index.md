@@ -226,7 +226,8 @@ page_sections:
   bonus_classes: ''
 - template: simple-footer
   block: footer-1
-  content: About . Contact<br>© 2019 Pip consulting
+  content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
+    href="/contact" title="Contact">Contact</a><br>© 2019 Pip consulting
 
 ---
 foo bar
