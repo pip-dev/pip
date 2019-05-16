@@ -16,6 +16,20 @@ page_sections:
     link_text: HOME
     background_colour: ''
   logo: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+  logo: ''
+  background_colour: ''
 - template: 1-column-text
   block: one-column-1
   headline: Getting in touch
