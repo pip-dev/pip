@@ -95,10 +95,10 @@ page_sections:
     text_colour: ''
 - template: logos
   block: logos-section
-  logo-1: "/uploads/logo-1.svg"
+  logo-1: "/uploads/2019/05/16/logo-1.svg"
   header: You're in good company
   subheader: We work with clients around the world from our office in Wiltshire, England
-  logo-2: "/uploads/logo-2.svg"
+  logo-2: "/uploads/2019/05/16/logo-2.svg"
   logo-3: "/uploads/logo-3.svg"
   logo-4: "/uploads/logo-4.svg"
   logo-5: "/uploads/logo-5.svg"
@@ -131,6 +131,7 @@ page_sections:
       We call this the strengths approach.
     image: ''
     caption: ''
+    image-on: false
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pt6
@@ -142,6 +143,7 @@ page_sections:
     image: ''
     caption: ''
     names-list: []
+    image-on: false
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -152,6 +154,7 @@ page_sections:
       in procurement and everything in between. '
     image: ''
     caption: ''
+    image-on: false
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   header: ''
@@ -162,6 +165,7 @@ page_sections:
     image: ''
     caption: ''
     names-list: []
+    image-on: false
   bonus_classes: ''
 - template: 2-column-media-element
   block: media-2
@@ -172,6 +176,7 @@ page_sections:
       of programmes all based in Trusted Advisor thinking.
     image: ''
     caption: ''
+    image-on: false
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pb5 mb6
@@ -183,6 +188,7 @@ page_sections:
     image: ''
     caption: ''
     names-list: []
+    image-on: false
 - template: feature-images
   block: feature-images
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
@@ -201,6 +207,7 @@ page_sections:
     header: Our core principles
     image: ''
     caption: ''
+    image-on: false
   col_2:
     header: The coaching faculty
     subheader: ''
@@ -211,6 +218,7 @@ page_sections:
     - Dr Chris McCormick
     image: ''
     caption: ''
+    image-on: false
   header: ''
   subheader: ''
   background_colour: ''
