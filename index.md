@@ -6,6 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/index"
+    link_text: Home
+    background_colour: "#FFFFFF"
   - link: "/about"
     link_text: About
     background_colour: ''
