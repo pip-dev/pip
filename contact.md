@@ -6,15 +6,15 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/index"
+    link_text: HOME
+    background_colour: "#090909"
+  - link_text: ABOUT
+    background_colour: "#000000"
+    link: "/about"
   - link: "/contact"
     link_text: CONTACT
     background_colour: "#000000"
-  - link_text: ABOUT
-    background_colour: ''
-    link: "/about"
-  - link: "/index"
-    link_text: HOME
-    background_colour: ''
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
