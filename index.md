@@ -58,10 +58,13 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Lead happy people
-    content: Commercial success is critical to any business and we inspire teams to
-      win the right clients for them using trusted advisor thinking, skills and habits.
-      We equip expert practitioners in many industries to love the commercial elements
-      of their role and win clients that inspire their teams.
+    content: The best talent is essential to our client's business success and we
+      help their leaders become inspiring to their teams. We train and coach leaders
+      so they in turn can coach, challenge and enable great talent to maximise their
+      success. We believe that people go to work to make a difference, to do great
+      work and to have fun in the process. We also know that people are complicated
+      and we help leaders navigate that with resilience, confidence intelligence and
+      skill.
     background_image: "/uploads/smile.svg"
     col_1: col_1
     classes: ''
@@ -80,8 +83,11 @@ page_sections:
     text_colour: ''
   col_3:
     headline: Grow happy clients
-    content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
-      tempor incidi.
+    content: Once our clients win those enviable clients, having carefully chosen
+      the ones they can add most value to; they will then want to maximise the work
+      and value to them.<br>We help them achieve this through training and coaching
+      team members in their ability to earn trust, add value and inspire their clients
+      in a commercially successful way.
     background_image: "/uploads/heart.svg"
     col_1: col_3
     classes: ''
