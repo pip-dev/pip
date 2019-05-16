@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "/contact"
     link_text: CONTACT
-    background_colour: ''
+    background_colour: "#000000"
   - link_text: ABOUT
     background_colour: ''
     link: "/about"
