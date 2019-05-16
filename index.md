@@ -105,16 +105,16 @@ page_sections:
   logo-6: "/uploads/2019/05/16/logo-6.png"
   logo-7: "/uploads/2019/05/16/logo-7.png"
   logo-8: "/uploads/2019/05/16/logo-8.png"
-  logo-9: "/uploads/logo-9.svg"
-  logo-10: "/uploads/logo-10.svg"
-  logo-11: "/uploads/logo-11.svg"
-  logo-12: "/uploads/logo-12.svg"
-  logo-13: "/uploads/logo-13.svg"
-  logo-14: "/uploads/logo-14.svg"
-  logo-15: "/uploads/logo-15.svg"
-  logo-16: "/uploads/logo-16.svg"
-  logo-17: "/uploads/logo-17.svg"
-  logo-18: "/uploads/logo-18.svg"
+  logo-9: "/uploads/2019/05/16/logo-9-1.svg"
+  logo-10: "/uploads/2019/05/16/logo-10.svg"
+  logo-11: "/uploads/2019/05/16/logo-11.png"
+  logo-12: "/uploads/2019/05/16/logo-12.png"
+  logo-13: ''
+  logo-14: ''
+  logo-15: ''
+  logo-16: ''
+  logo-17: ''
+  logo-18: ''
 - template: feature-images
   block: feature-images
   image_1: "/uploads/bogdan-glisik-698269-unsplash.jpg"
