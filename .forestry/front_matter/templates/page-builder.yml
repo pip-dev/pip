@@ -35,5 +35,5 @@ fields:
   - 4-column-footer
 pages:
 - about.md
-- index.md
 - contact.md
+- index.md
