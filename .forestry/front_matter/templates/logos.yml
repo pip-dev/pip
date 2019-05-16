@@ -48,21 +48,3 @@ fields:
 - type: file
   name: logo-12
   label: logo-12
-- type: file
-  name: logo-13
-  label: logo-13
-- type: file
-  name: logo-14
-  label: logo-14
-- type: file
-  name: logo-15
-  label: logo-15
-- type: file
-  name: logo-16
-  label: logo-16
-- type: file
-  name: logo-17
-  label: logo-17
-- type: file
-  name: logo-18
-  label: logo-18
