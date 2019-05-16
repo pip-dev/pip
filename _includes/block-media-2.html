@@ -16,7 +16,7 @@
         <div class="serif fw1 f4 fw1 dark-gray lh-copy " style="color: {{ section.text_colour }}">{{ section.col_1.subheader }}</div>
         {% endif %}
 
-       {% if section.col_1.image %}
+       {% if section.col_1.image-on %}
         <img src="{{ section.col_1.image | relative_url }}">
        {% endif %}
     </div>
@@ -35,8 +35,7 @@
         </ul>
 
 
-
-       {% if section.col_2.image %}
+       {% if section.image-on %} 
         <img src="{{ section.col_2.image | relative_url }}">
        {% endif %}
     </div>
