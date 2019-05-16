@@ -99,8 +99,8 @@ page_sections:
   header: You're in good company
   subheader: We work with clients around the world from our office in Wiltshire, England
   logo-2: "/uploads/2019/05/16/logo-2.svg"
-  logo-3: "/uploads/2019/05/16/logo-3.svg"
-  logo-4: "/uploads/logo-4.svg"
+  logo-3: "/uploads/2019/05/16/logo-3.png"
+  logo-4: "/uploads/2019/05/16/logo-4.svg"
   logo-5: "/uploads/logo-5.svg"
   logo-6: "/uploads/logo-6.svg"
   logo-7: "/uploads/logo-7.svg"
