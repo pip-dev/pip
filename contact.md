@@ -3,6 +3,19 @@ layout: blocks
 title: Contact
 date: 
 page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: "/contact"
+    link_text: CONTACT
+    background_colour: ''
+  - link_text: ABOUT
+    background_colour: ''
+    link: "/about"
+  - link: "/index"
+    link_text: HOME
+    background_colour: ''
+  logo: ''
 - template: 1-column-text
   block: one-column-1
   headline: Getting in touch
