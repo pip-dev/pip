@@ -18,11 +18,11 @@ page_sections:
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2019/05/16/charles-1497983-unsplash.jpg"
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: 'Contact us '
   content: ''
   cta:
     enabled: false
