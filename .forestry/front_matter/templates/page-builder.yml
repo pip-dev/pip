@@ -34,6 +34,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- contact.md
 - about.md
+- contact.md
 - index.md

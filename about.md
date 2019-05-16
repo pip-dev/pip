@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: About
-date: ''
+date: 
 page_sections:
 - template: navigation-header
   block: header-1
@@ -15,12 +15,21 @@ page_sections:
   - link: "/contact"
     link_text: CONTACT
     background_colour: "#FFFFFF"
+  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2019/04/25/brooke-cagle-609873-unsplash.jpg"
   headline: About us
   logo: ''
   background_colour: "#FFFFFF"
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 1-column-text
   block: one-column-1
   content: The people at Pip are highly commercial and leadership experienced, senior
@@ -30,6 +39,11 @@ page_sections:
     the success of the client's team.<br><br>Together this network of performance
     developers creates good change within organisations and people.
   headline: Who we are
+  classes: ''
+  background_colour: ''
+  text_colour: ''
+  background_image: ''
+  col_1: ''
 - template: feature-images
   block: feature-images
   layout-1: true
@@ -55,13 +69,20 @@ page_sections:
     trust to make a greater impact on their client's. This is the essence of good
     selling, account management, consulting and leadership.
   background_colour: "#FBF8F5"
+  classes: ''
+  text_colour: ''
+  background_image: ''
+  col_1: ''
 - template: feature-images
   block: feature-images
   image_1: "/uploads/2019/04/25/hermes-rivera-779148-unsplash.jpg"
   image_2: "/uploads/2019/04/25/Screen Shot 2018-05-10 at 11.21.33.png"
   image_3: "/uploads/2019/04/25/andrik-langfield-348253-unsplash.jpg"
+  layout-1: false
 - template: simple-footer
   block: footer-1
+  content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
+    href="/contact" title="Contact">Contact</a><br>© 2019 Pip consulting
 menu:
   main:
     weight: 2
