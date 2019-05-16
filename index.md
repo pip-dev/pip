@@ -95,26 +95,26 @@ page_sections:
     text_colour: ''
 - template: logos
   block: logos-section
-  logo-1: "/uploads/logo-1.svg"
+  logo-1: "/uploads/2019/05/16/logo-1.png"
   header: You're in good company
   subheader: We work with clients around the world from our office in Wiltshire, England
-  logo-2: "/uploads/logo-2.svg"
-  logo-3: "/uploads/logo-3.svg"
-  logo-4: "/uploads/logo-4.svg"
-  logo-5: "/uploads/logo-5.svg"
-  logo-6: "/uploads/logo-6.svg"
-  logo-7: "/uploads/logo-7.svg"
-  logo-8: "/uploads/logo-8.svg"
-  logo-9: "/uploads/logo-9.svg"
-  logo-10: "/uploads/logo-10.svg"
-  logo-11: "/uploads/logo-11.svg"
-  logo-12: "/uploads/logo-12.svg"
-  logo-13: "/uploads/logo-13.svg"
-  logo-14: "/uploads/logo-14.svg"
-  logo-15: "/uploads/logo-15.svg"
-  logo-16: "/uploads/logo-16.svg"
-  logo-17: "/uploads/logo-17.svg"
-  logo-18: "/uploads/logo-18.svg"
+  logo-2: "/uploads/2019/05/16/logo-2.png"
+  logo-3: "/uploads/2019/05/16/logo-3-1.png"
+  logo-4: "/uploads/2019/05/16/logo-4.png"
+  logo-5: "/uploads/2019/05/16/logo-5.png"
+  logo-6: "/uploads/2019/05/16/logo-6-1.png"
+  logo-7: "/uploads/2019/05/16/logo-7-1.png"
+  logo-8: "/uploads/2019/05/16/logo-8-1.png"
+  logo-9: "/uploads/2019/05/16/logo-9.png"
+  logo-10: "/uploads/2019/05/16/logo-10.png"
+  logo-11: "/uploads/2019/05/16/logo-11-1.png"
+  logo-12: "/uploads/2019/05/16/logo-12-1.png"
+  logo-13: ''
+  logo-14: ''
+  logo-15: ''
+  logo-16: ''
+  logo-17: ''
+  logo-18: ''
 - template: feature-images
   block: feature-images
   image_1: "/uploads/bogdan-glisik-698269-unsplash.jpg"
@@ -131,6 +131,7 @@ page_sections:
       We call this the strengths approach.
     image: ''
     caption: ''
+    image-on: false
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pt6
@@ -142,6 +143,7 @@ page_sections:
     image: ''
     caption: ''
     names-list: []
+    image-on: false
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -152,6 +154,7 @@ page_sections:
       in procurement and everything in between. '
     image: ''
     caption: ''
+    image-on: false
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   header: ''
@@ -162,6 +165,7 @@ page_sections:
     image: ''
     caption: ''
     names-list: []
+    image-on: false
   bonus_classes: ''
 - template: 2-column-media-element
   block: media-2
@@ -172,6 +176,7 @@ page_sections:
       of programmes all based in Trusted Advisor thinking.
     image: ''
     caption: ''
+    image-on: false
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pb5 mb6
@@ -183,6 +188,7 @@ page_sections:
     image: ''
     caption: ''
     names-list: []
+    image-on: false
 - template: feature-images
   block: feature-images
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
@@ -201,6 +207,7 @@ page_sections:
     header: Our core principles
     image: ''
     caption: ''
+    image-on: false
   col_2:
     header: The coaching faculty
     subheader: ''
@@ -211,6 +218,7 @@ page_sections:
     - Dr Chris McCormick
     image: ''
     caption: ''
+    image-on: false
   header: ''
   subheader: ''
   background_colour: ''
