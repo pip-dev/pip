@@ -95,20 +95,20 @@ page_sections:
     text_colour: ''
 - template: logos
   block: logos-section
-  logo-1: "/uploads/2019/05/16/logo-1.svg"
+  logo-1: "/uploads/2019/05/16/logo-1.png"
   header: You're in good company
   subheader: We work with clients around the world from our office in Wiltshire, England
-  logo-2: "/uploads/2019/05/16/logo-2.svg"
-  logo-3: "/uploads/2019/05/16/logo-3.png"
-  logo-4: "/uploads/2019/05/16/logo-4.svg"
-  logo-5: "/uploads/2019/05/16/logo-5.svg"
-  logo-6: "/uploads/2019/05/16/logo-6.png"
-  logo-7: "/uploads/2019/05/16/logo-7.png"
-  logo-8: "/uploads/2019/05/16/logo-8.png"
-  logo-9: "/uploads/2019/05/16/logo-9-1.svg"
-  logo-10: "/uploads/2019/05/16/logo-10.svg"
-  logo-11: "/uploads/2019/05/16/logo-11.png"
-  logo-12: "/uploads/2019/05/16/logo-12.png"
+  logo-2: "/uploads/2019/05/16/logo-2.png"
+  logo-3: "/uploads/2019/05/16/logo-3-1.png"
+  logo-4: "/uploads/2019/05/16/logo-4.png"
+  logo-5: "/uploads/2019/05/16/logo-5.png"
+  logo-6: "/uploads/2019/05/16/logo-6-1.png"
+  logo-7: "/uploads/2019/05/16/logo-7-1.png"
+  logo-8: "/uploads/2019/05/16/logo-8-1.png"
+  logo-9: "/uploads/2019/05/16/logo-9.png"
+  logo-10: "/uploads/2019/05/16/logo-10.png"
+  logo-11: "/uploads/2019/05/16/logo-11-1.png"
+  logo-12: "/uploads/2019/05/16/logo-12-1.png"
   logo-13: ''
   logo-14: ''
   logo-15: ''
