@@ -1,15 +1,18 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
   navigation:
   - link: "/about"
     link_text: About
+    background_colour: ''
   - link: "/contact"
     link_text: Contact
+    background_colour: ''
+  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: ''
@@ -23,6 +26,7 @@ page_sections:
     alt_text: PIP - People inspiring people
   background_image: "/uploads/Background-image.jpg"
   logo: "/uploads/logo-full-white.svg"
+  background_colour: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -34,31 +38,61 @@ page_sections:
       <br><br>In making it bespoke we find we can make performance improvements sustainable
       and inspiring.
     classes: 'column-start-1 column-end-5 column-start-2-l '
+    headline: ''
+    background_colour: ''
+    text_colour: ''
+    background_image: ''
+    col_1: ''
   col_2:
     headline: Capabilities
     content: Leadership development<br>Commercial strategy &amp; skills development<br>Executive
       coaching<br>
     classes: column-start-5-ns column-end-7-ns
+    background_colour: ''
+    text_colour: ''
+    background_image: ''
+    col_1: ''
+  panels: false
+  image: false
 - template: 3-column-text
   block: three-column-1
   col_1:
     headline: Lead happy people
-    content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
-      tempor incidi.
+    content: The best talent is essential to our client's business success and we
+      help their leaders become inspiring to their teams. We train and coach leaders
+      so they in turn can coach, challenge and enable great talent to maximise their
+      success. We believe that people go to work to make a difference, to do great
+      work and to have fun in the process. We also know that people are complicated
+      and we help leaders navigate that with resilience, confidence intelligence and
+      skill.
     background_image: "/uploads/smile.svg"
     col_1: col_1
+    classes: ''
+    background_colour: ''
+    text_colour: ''
   col_2:
     headline: Win enviable clients
-    content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
-      tempor incidi.
+    content: Commercial success is critical to any business and we inspire teams to
+      win the right clients for them using trusted advisor thinking, skills and habits.
+      We equip expert practitioners in many industries to love the commercial elements
+      of their role and win clients that inspire their teams.
     background_image: "/uploads/rocket.svg"
     col_1: col_2
+    classes: ''
+    background_colour: ''
+    text_colour: ''
   col_3:
     headline: Grow happy clients
-    content: Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod
-      tempor incidi.
+    content: Once our clients win those enviable clients, having carefully chosen
+      the ones they can add most value to; they will then want to maximise the work
+      and value to them.<br>We help them achieve this through training and coaching
+      team members in their ability to earn trust, add value and inspire their clients
+      in a commercially successful way.
     background_image: "/uploads/heart.svg"
     col_1: col_3
+    classes: ''
+    background_colour: ''
+    text_colour: ''
 - template: logos
   block: logos-section
   logo-1: "/uploads/logo-1.svg"
@@ -95,9 +129,19 @@ page_sections:
       of their team and the individuals in it. Through our programmes, leaders uncover
       their own  style, best habits and the ability to challenge and change positively.
       We call this the strengths approach.
+    image: ''
+    caption: ''
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pt6
+  header: ''
+  subheader: ''
+  col_2:
+    header: ''
+    subheader: ''
+    image: ''
+    caption: ''
+    names-list: []
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -106,8 +150,19 @@ page_sections:
       business. From creating an inspiring business development strategy and practical
       plan, outreach, pitching to coaching your team to engage with the scary guys
       in procurement and everything in between. '
+    image: ''
+    caption: ''
   background_colour: "#FBF8F5"
   text_colour: "#383838"
+  header: ''
+  subheader: ''
+  col_2:
+    header: ''
+    subheader: ''
+    image: ''
+    caption: ''
+    names-list: []
+  bonus_classes: ''
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -115,14 +170,25 @@ page_sections:
     subheader: Happy clients and happy teams are key to thriving as a business.  We
       help all levels in the team get it right and make it look easy though a raft
       of programmes all based in Trusted Advisor thinking.
+    image: ''
+    caption: ''
   background_colour: "#FBF8F5"
   text_colour: "#383838"
   bonus_classes: pb5 mb6
+  header: ''
+  subheader: ''
+  col_2:
+    header: ''
+    subheader: ''
+    image: ''
+    caption: ''
+    names-list: []
 - template: feature-images
   block: feature-images
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
   image_2: "/uploads/isaac-cabezas-780217-unsplash.jpg"
   image_3: "/uploads/jose-alejandro-cuffia-792587-unsplash.jpg"
+  layout-1: false
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -133,6 +199,8 @@ page_sections:
       can be added to business relationships and that trust must be earned by each
       player on the team."
     header: Our core principles
+    image: ''
+    caption: ''
   col_2:
     header: The coaching faculty
     subheader: ''
@@ -141,6 +209,13 @@ page_sections:
     - Louise Hedges
     - 'Deirdre Kenny '
     - Dr Chris McCormick
+    image: ''
+    caption: ''
+  header: ''
+  subheader: ''
+  background_colour: ''
+  text_colour: ''
+  bonus_classes: ''
 - template: simple-footer
   block: footer-1
   content: About . Contact<br>© 2019 Pip consulting
