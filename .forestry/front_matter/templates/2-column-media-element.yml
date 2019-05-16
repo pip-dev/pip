@@ -31,6 +31,9 @@ fields:
   - type: text
     name: caption
     label: Caption
+  - name: image-on
+    type: boolean
+    label: Image is visible
 - type: field_group
   name: col_2
   label: Second column
@@ -51,6 +54,9 @@ fields:
   - type: list
     name: names-list
     label: Names
+  - name: image-on
+    type: boolean
+    label: Image is visible
 - type: color
   name: background_colour
   config:
