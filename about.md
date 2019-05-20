@@ -10,7 +10,7 @@ page_sections:
     link_text: HOME
     background_colour: "#000000"
   - link_text: ABOUT
-    link: "/ABOUT"
+    link: "/about"
     background_colour: "#000000"
   - link: "/contact"
     link_text: CONTACT
