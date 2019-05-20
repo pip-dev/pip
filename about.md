@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "/index"
     link_text: HOME
-    background_colour: "#FFFFFF"
+    background_colour: "#000000"
   - link_text: ABOUT
     link: "/ABOUT"
     background_colour: "#FFFFFF"
