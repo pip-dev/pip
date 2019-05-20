@@ -120,8 +120,8 @@ page_sections:
   logo-18: ''
 - template: feature-images
   block: feature-images
-  image_1: "/uploads/bogdan-glisik-698269-unsplash.jpg"
-  image_2: "/uploads/2019/05/20/Louise Hedges.jpg"
+  image_1: "/uploads/2019/05/20/coaching 1.jpeg"
+  image_2: "/uploads/2019/05/20/conference room.jpeg"
   image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
   layout-1: true
 - template: 2-column-media-element
