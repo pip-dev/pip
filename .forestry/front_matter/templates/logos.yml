@@ -48,3 +48,33 @@ fields:
 - type: file
   name: logo-12
   label: logo-12
+- name: image-13
+  type: file
+  config:
+    maxSize: 250
+  label: image-13
+- name: image-14
+  type: file
+  config:
+    maxSize: 250
+  label: image-14
+- name: image-15
+  type: file
+  config:
+    maxSize: 250
+  label: image-15
+- name: image-16
+  type: file
+  config:
+    maxSize: 250
+  label: image-16
+- name: image-17
+  type: file
+  config:
+    maxSize: 250
+  label: image-17
+- name: image-18
+  type: file
+  config:
+    maxSize: 250
+  label: image-18
