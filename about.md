@@ -18,7 +18,7 @@ page_sections:
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2019/05/20/aduro.jpg"
+  background_image: "/uploads/2019/05/20/2.PNG"
   headline: About us
   logo: ''
   background_colour: "#FFFFFF"
