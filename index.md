@@ -36,10 +36,10 @@ page_sections:
     content: Our mission is to help our clients grow; both as organisations and individuals.
       To do that we use training, coaching and consulting approaches.<br><br>While
       business performance improvement is our goal, individuality is at the heart
-      of everything we do. Each and every client has a different goal, situation and
-      culture and we will always design a bespoke process based on each team's needs.
-      <br><br>In making it bespoke we find we can make performance improvements sustainable
-      and inspiring.
+      of everything we do. Each and every client has a different objective, situation
+      and culture and we will always design a bespoke process based on each team's
+      needs. <br><br>In making it bespoke we find we can make performance improvements
+      sustainable and inspiring.
     classes: 'column-start-1 column-end-5 column-start-2-l '
     headline: ''
     background_colour: ''
