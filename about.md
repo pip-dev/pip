@@ -32,7 +32,7 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  content: The people at Pip are highly commercial and leadership experienced, senior
+  content: The people at Pip are highly commercial, leadership experienced, senior
     executive coaches and trainers who share a passion for transforming people into
     the best version of themselves.<br><br>Louise Hedges is the founder and works
     with every client to bring the right talent to each project in order to maximise
