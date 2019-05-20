@@ -18,7 +18,7 @@ page_sections:
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2019/05/20/2.PNG"
+  background_image: "/uploads/2019/05/20/Screen Shot 2018-08-01 at 23.13.55.png"
   headline: About us
   logo: ''
   background_colour: "#FFFFFF"
