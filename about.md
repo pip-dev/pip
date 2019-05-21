@@ -78,7 +78,7 @@ page_sections:
   image_1: "/uploads/2019/05/20/awesome.jpeg"
   image_2: "/uploads/2019/04/25/Screen Shot 2018-05-10 at 11.21.33.png"
   image_3: "/uploads/2019/04/25/andrik-langfield-348253-unsplash.jpg"
-  layout-1: true
+  layout-1: false
 - template: simple-footer
   block: footer-1
   content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
