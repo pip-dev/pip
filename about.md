@@ -47,9 +47,9 @@ page_sections:
 - template: feature-images
   block: feature-images
   layout-1: true
-  image_1: "/uploads/2019/04/25/daniel-fazio-558736-unsplash.jpg"
-  image_2: "/uploads/2019/04/25/Screen Shot 2018-05-10 at 11.21.33.png"
-  image_3: "/uploads/2019/05/20/aduro.jpg"
+  image_1: "/uploads/2019/05/21/Screen Shot 2018-05-10 at 11.21.33.png"
+  image_2: "/uploads/2019/04/25/daniel-fazio-558736-unsplash.jpg"
+  image_3: "/uploads/2019/04/25/brooke-cagle-609873-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: Why we are
