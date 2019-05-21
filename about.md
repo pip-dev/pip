@@ -76,7 +76,7 @@ page_sections:
 - template: feature-images
   block: feature-images
   image_1: "/uploads/2019/05/20/awesome.jpeg"
-  image_2: "/uploads/2019/04/25/Screen Shot 2018-05-10 at 11.21.33.png"
+  image_2: "/uploads/2019/05/20/post it 1.jpeg"
   image_3: "/uploads/2019/04/25/andrik-langfield-348253-unsplash.jpg"
   layout-1: false
 - template: simple-footer
