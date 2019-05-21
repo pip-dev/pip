@@ -112,12 +112,12 @@ page_sections:
   logo-10: "/uploads/2019/05/20/logo-10.png"
   logo-11: "/uploads/2019/05/20/logo-11.png"
   logo-12: "/uploads/2019/05/20/logo-12.png"
-  logo-13: ''
-  logo-14: ''
-  logo-15: ''
-  logo-16: ''
-  logo-17: ''
-  logo-18: ''
+  logo-13: "/uploads/2019/05/21/logo-13-1.png"
+  logo-14: "/uploads/2019/05/21/logo-14.jpg"
+  logo-15: "/uploads/2019/05/21/logo-15.png"
+  logo-16: "/uploads/2019/05/21/logo-16.png"
+  logo-17: "/uploads/2019/05/21/logo-17.png"
+  logo-18: "/uploads/2019/05/21/logo-18.png"
   image-13: "/uploads/2019/05/21/logo-13.png"
   image-14: "/uploads/2019/05/20/logo-14.png"
   image-15: "/uploads/2019/05/20/logo-15.png"
