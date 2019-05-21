@@ -126,8 +126,8 @@ page_sections:
   image-18: "/uploads/2019/05/20/logo-18.png"
 - template: feature-images
   block: feature-images
-  image_1: "/uploads/2019/05/20/coaching 1.jpeg"
-  image_2: "/uploads/2019/05/20/conference room.jpeg"
+  image_1: "/uploads/2019/05/20/conference room.jpeg"
+  image_2: "/uploads/2019/05/20/coaching 1.jpeg"
   image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
   layout-1: true
 - template: 2-column-media-element
