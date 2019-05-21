@@ -126,8 +126,8 @@ page_sections:
   image-18: "/uploads/2019/05/20/logo-18.png"
 - template: feature-images
   block: feature-images
-  image_1: "/uploads/2019/05/20/coaching 1.jpeg"
-  image_2: "/uploads/2019/05/20/conference room.jpeg"
+  image_1: "/uploads/2019/05/20/conference room.jpeg"
+  image_2: "/uploads/2019/05/20/coaching 1.jpeg"
   image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
   layout-1: true
 - template: 2-column-media-element
@@ -201,7 +201,7 @@ page_sections:
 - template: feature-images
   block: feature-images
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
-  image_2: "/uploads/isaac-cabezas-780217-unsplash.jpg"
+  image_2: "/uploads/2019/05/20/aduro.jpg"
   image_3: "/uploads/jose-alejandro-cuffia-792587-unsplash.jpg"
   layout-1: false
 - template: 2-column-media-element
