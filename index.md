@@ -123,7 +123,7 @@ page_sections:
   image-15: "/uploads/2019/05/20/logo-15.png"
   image-16: "/uploads/2019/05/20/logo-16.png"
   image-17: "/uploads/2019/05/20/logo-17.png"
-  image-18: "/uploads/2019/05/20/logo-18.png"
+  image-18: ''
 - template: feature-images
   block: feature-images
   image_1: "/uploads/2019/05/20/conference room.jpeg"
