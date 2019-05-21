@@ -188,7 +188,7 @@ page_sections:
     image-on: false
   background_colour: "#FBF8F5"
   text_colour: "#383838"
-  bonus_classes: pb5 mb6
+  bonus_classes: pb6 mb0
   header: ''
   subheader: ''
   col_2:
