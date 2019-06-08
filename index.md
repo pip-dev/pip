@@ -129,7 +129,7 @@ page_sections:
   image_1: "/uploads/2019/05/20/conference room.jpeg"
   image_2: "/uploads/2019/05/20/coaching 1.jpeg"
   image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
-  layout-1: true
+  layout-1: false
 - template: 2-column-media-element
   block: media-2
   col_1:
