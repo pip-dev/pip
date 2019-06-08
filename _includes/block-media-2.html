@@ -17,7 +17,7 @@
         {% endif %}
 
        {% if section.col_1.image-on %}
-        <img src="{{ section.col_1.image | relative_url }}">
+        <img src="{{ section.col_1.image | base }}">
        {% endif %}
     </div>
 
@@ -36,7 +36,7 @@
 
 
        {% if section.image-on %} 
-        <img src="{{ section.col_2.image | relative_url }}">
+        <img src="{{ section.col_2.image | base }}">
        {% endif %}
     </div>
   </div>
