@@ -15,7 +15,7 @@ style="background: url('{{ section.background_image | base }}') no-repeat 68% ce
         
         {% if section.logo %}
         <img style="height:9rem" 
-         src="{{ section.logo | relative_url }}" alt="{{ section.image.alt_text }}">
+         src="{{ section.logo | base }}" alt="{{ section.image.alt_text }}">
         {% endif %}
 
       </div>
