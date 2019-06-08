@@ -4,8 +4,8 @@
 
    {% if logo-on %}
    <div class="">
-    <a href="{{ site.url | baseurl }}">
-      <img src="{{ section.logo | baseurl }}" alt="{{ site.title }}">
+    <a href="{{ site.url | relative_url }}">
+      <img src="{{ section.logo | relative_url }}" alt="{{ site.title }}">
     </a>
   </div>
    {% endif %}
@@ -14,7 +14,7 @@
     <ul class="mw-100">
       <div class="flex">
       {% for nav_item in section.navigation %}
-      <li class="sans-serif fw6 f6 tracked-mega nav-item list dib pr4 sans-serif ttu tracked {% if page.url == nav_item.link %}active{% endif %}"><a style="color:{{ nav_item.background_colour }}" class="dim white no-underline" href="{{ baseurl }}{{ nav_item.link }}">{{ nav_item.link_text }}</a></li>
+      <li class="sans-serif fw6 f6 tracked-mega nav-item list dib pr4 sans-serif ttu tracked {% if page.url == nav_item.link %}active{% endif %}"><a style="color:{{ nav_item.background_colour }}" class="dim white no-underline" href="{{ site.baseurl }}{{ nav_item.link }}">{{ nav_item.link_text }}</a></li>
       {% endfor %}
       </div>
     </ul>
