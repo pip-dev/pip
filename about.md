@@ -46,7 +46,7 @@ page_sections:
   col_1: ''
 - template: feature-images
   block: feature-images
-  layout-1: true
+  layout-1: false
   image_1: "/uploads/2019/05/21/Screen Shot 2018-05-10 at 11.21.33.png"
   image_2: "/uploads/2019/04/25/daniel-fazio-558736-unsplash.jpg"
   image_3: "/uploads/2019/04/25/brooke-cagle-609873-unsplash.jpg"
