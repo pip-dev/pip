@@ -237,7 +237,6 @@ page_sections:
   block: footer-1
   content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
     href="/contact" title="Contact">Contact</a><br>© 2019 Pip consulting
-published: false
 
 ---
 foo bar
