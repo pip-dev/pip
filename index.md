@@ -203,7 +203,7 @@ page_sections:
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
   image_2: "/uploads/2019/05/21/pip images-1.jpg"
   image_3: "/uploads/jose-alejandro-cuffia-792587-unsplash.jpg"
-  layout-1: false
+  layout-1: true
 - template: 2-column-media-element
   block: media-2
   col_1:
@@ -237,6 +237,7 @@ page_sections:
   block: footer-1
   content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
     href="/contact" title="Contact">Contact</a><br>© 2019 Pip consulting
+published: false
 
 ---
 foo bar
