@@ -202,7 +202,7 @@ page_sections:
   block: feature-images
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
   image_2: "/uploads/2019/05/21/pip images-1.jpg"
-  image_3: "/uploads/jose-alejandro-cuffia-792587-unsplash.jpg"
+  image_3: ''
   layout-1: true
 - template: 2-column-media-element
   block: media-2
