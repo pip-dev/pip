@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2020-09-16 22:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
@@ -126,8 +126,8 @@ page_sections:
   image-18: "/uploads/2019/05/20/logo-18.png"
 - template: feature-images
   block: feature-images
-  image_1: "/uploads/2019/05/20/conference room.jpeg"
-  image_2: "/uploads/2019/05/20/coaching 1.jpeg"
+  image_1: ''
+  image_2: ''
   image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
   layout-1: false
 - template: 2-column-media-element
