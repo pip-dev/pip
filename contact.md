@@ -44,6 +44,11 @@ page_sections:
   block: footer-1
   content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
     href="/contact" title="Contact">Contact</a><br>© 2019 Pip consulting
+- template: signup-bar
+  block: cta-bar
+  email_recipient: louise@pipdevelopment.co
+  content: See for yourself how Executive Coaching could help your career and business<br><br>Click
+    here to book your free taster session via Zoom today.<br>
 menu:
   main:
     weight: 3
