@@ -203,7 +203,7 @@ page_sections:
   image_1: "/uploads/irfan-simsar-1144378-unsplash.jpg"
   image_2: ''
   image_3: ''
-  layout-1: true
+  layout-1: false
 - template: 2-column-media-element
   block: media-2
   col_1:
