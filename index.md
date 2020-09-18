@@ -126,9 +126,9 @@ page_sections:
   image-18: "/uploads/2019/05/20/logo-18.png"
 - template: feature-images
   block: feature-images
-  image_1: ''
+  image_1: "/uploads/2019/04/25/brooke-cagle-609873-unsplash.jpg"
   image_2: ''
-  image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
+  image_3: ''
   layout-1: true
 - template: 2-column-media-element
   block: media-2
