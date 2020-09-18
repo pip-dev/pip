@@ -129,7 +129,7 @@ page_sections:
   image_1: ''
   image_2: ''
   image_3: "/uploads/dylan-gillis-533818-unsplash.jpg"
-  layout-1: false
+  layout-1: true
 - template: 2-column-media-element
   block: media-2
   col_1:
