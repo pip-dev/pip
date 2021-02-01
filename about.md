@@ -60,14 +60,15 @@ page_sections:
     belief about the person is that they are made up of a number of individual strengths
     and that in order to develop they simply need to bring to the fore the right strength
     for that situation. We often find that the barrier to someone's success is over-using
-    one strength and under-using a better one for that moment. Our role is to help
-    the person turn the dials on each, becoming more flexible, effective and happy
-    in their role as a result.<br><br>Our business philosophy is that trust is central
-    to everything and that earning it can be learnt. The process of building trust
-    is made up of mind-sets, habits and skills which are what we train and coach people
-    to excel at. Once we have helped with that learning, our client can then use that
-    trust to make a greater impact on their client's. This is the essence of good
-    selling, account management, consulting and leadership.
+    one strength and under-using a better one for that moment. The last year has required
+    every professional to change faster and better than ever before. Our role is to
+    help the person turn the dials on each strength, becoming more flexible, effective
+    and happy in their role as a result.<br><br>Our business philosophy is that trust
+    is central to everything and that earning it can be learnt. The process of building
+    trust is made up of mind-sets, habits and skills which are what we train and coach
+    people to excel at. Once we have helped with that learning, our client can then
+    use that trust to make a greater impact on their client's success. This, we believe,
+    is the essence of good selling, account management, consulting and leadership.
   background_colour: "#FBF8F5"
   classes: ''
   text_colour: ''
