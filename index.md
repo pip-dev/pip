@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2020-09-16 22:00:00 +0000
+date: 2020-09-16T22:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -111,7 +111,7 @@ page_sections:
   logo-9: "/uploads/2019/05/20/logo-9.png"
   logo-10: "/uploads/2019/05/20/logo-10.png"
   logo-11: "/uploads/2019/05/20/logo-11.png"
-  logo-12: "/uploads/2019/05/20/logo-12.png"
+  logo-12: ''
   logo-13: "/uploads/2019/05/21/logo-13-1.png"
   logo-14: "/uploads/2019/05/21/logo-14.jpg"
   logo-15: "/uploads/2019/05/21/logo-15.png"
