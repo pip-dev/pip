@@ -75,10 +75,10 @@ page_sections:
   col_1: ''
 - template: feature-images
   block: feature-images
-  image_1: "/uploads/2019/05/20/awesome.jpeg"
+  image_1: ''
   image_2: "/uploads/2019/05/20/post it 1.jpeg"
   image_3: "/uploads/2019/04/25/andrik-langfield-348253-unsplash.jpg"
-  layout-1: false
+  layout-1: true
 - template: simple-footer
   block: footer-1
   content: <a href="/index" title="Home">Home</a>  |  <a href="/about" title="About">About</a>  |  <a
